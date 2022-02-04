@@ -6,3 +6,16 @@
 3. Extract Zip
 4. Launch `EQLauncher.bat`
 5. Launch `Add New Player Metadata.bat`
+
+### Create P99 Account
+* Navigate to [project1999.com](project1999.com) to register a new account
+
+### Download Zip
+* Click here to download this project as `.zip`
+* Extract the `.zip` anywhere you would like
+
+### Launch `Add New Player Metadata.bat`
+* Launch `Add New Player Metadata.bat` to install default UI-template for a new character
+
+### Launch `EQLauncher.bat`
+* Launch `EQLauncher.bat` to update and launch the P99 client
