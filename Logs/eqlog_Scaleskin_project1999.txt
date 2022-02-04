@@ -1,0 +1,1387 @@
+[Sat Jan 29 21:53:47 2022] Welcome to EverQuest!
+[Sat Jan 29 21:53:47 2022] You have entered Dreadlands.
+[Sat Jan 29 21:53:47 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Sat Jan 29 21:53:52 2022] Barein regains concentration and continues casting.
+[Sat Jan 29 21:53:56 2022] Galleta regards you indifferently -- it appears to be quite formidable.
+[Sat Jan 29 21:53:59 2022] Barein regards you indifferently -- what would you like your tombstone to say?
+[Sat Jan 29 21:54:00 2022] Barein regards you indifferently -- what would you like your tombstone to say?
+[Sat Jan 29 21:54:02 2022] Denden regards you indifferently -- it appears to be quite formidable.
+[Sat Jan 29 21:55:37 2022] Successfully created hotbutton
+[Sat Jan 29 21:57:02 2022] Successfully created hotbutton
+[Sat Jan 29 21:57:26 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:28 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:29 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:31 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:34 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:36 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:43 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:46 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:48 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:50 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:52 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:55 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:57:58 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:58:00 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:58:02 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:58:04 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:58:07 2022] Bozho grabs hold of Scaleskin and begins to dance with him.
+[Sat Jan 29 21:58:41 2022] You begin casting Quickness.
+[Sat Jan 29 21:58:41 2022] You can't use that command right now...
+[Sat Jan 29 21:58:44 2022] Bozho feels much faster.
+[Sat Jan 29 21:58:45 2022] You haven't recovered yet...
+[Sat Jan 29 21:58:45 2022] You haven't recovered yet...
+[Sat Jan 29 21:58:46 2022] You haven't recovered yet...
+[Sat Jan 29 21:58:46 2022] You haven't recovered yet...
+[Sat Jan 29 21:58:46 2022] You begin casting Chloroplast.
+[Sat Jan 29 21:58:46 2022] You haven't recovered yet...
+[Sat Jan 29 21:58:46 2022] You haven't recovered yet...
+[Sat Jan 29 21:58:46 2022] You can't use that command right now...
+[Sat Jan 29 21:58:47 2022] You haven't recovered yet...
+[Sat Jan 29 21:58:52 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 21:58:52 2022] You can't use that command right now...
+[Sat Jan 29 21:58:52 2022] Bozho begins to regenerate.
+[Sat Jan 29 21:59:23 2022] a wulfware lonewolf scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 21:59:33 2022] Successfully created hotbutton
+[Sat Jan 29 21:59:39 2022] Bozho beams a smile at a wulfware lonewolf
+[Sat Jan 29 21:59:39 2022] Bozho says 'Ahhh, I feel much better now...'
+[Sat Jan 29 21:59:51 2022] Bozho beams a smile at a wulfware lonewolf
+[Sat Jan 29 21:59:51 2022] Bozho says 'Ahhh, I feel much better now...'
+[Sat Jan 29 22:00:06 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:00:24 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:00:43 2022] Bozho beams a smile at a wulfware lonewolf
+[Sat Jan 29 22:00:43 2022] Bozho says 'Ahhh, I feel much better now...'
+[Sat Jan 29 22:00:49 2022] Bozho beams a smile at a wulfware lonewolf
+[Sat Jan 29 22:00:49 2022] Bozho says 'Ahhh, I feel much better now...'
+[Sat Jan 29 22:00:50 2022] a petrifier cockatrice says 'Guarding with my life..oh splendid one.'
+[Sat Jan 29 22:01:06 2022] Successfully created hotbutton
+[Sat Jan 29 22:01:15 2022] Bozho cheers.
+[Sat Jan 29 22:01:17 2022] Bozho cheers.
+[Sat Jan 29 22:01:19 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:01:21 2022] Bozho claps his hands together - hurray!
+[Sat Jan 29 22:01:23 2022] Bozho claps his hands together - hurray!
+[Sat Jan 29 22:01:38 2022] Successfully created hotbutton
+[Sat Jan 29 22:01:54 2022] Successfully created hotbutton
+[Sat Jan 29 22:02:11 2022] Your Location is 1005.16, -2212.28, 26.81
+[Sat Jan 29 22:02:11 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:02:12 2022] Your Location is 1021.04, -2216.67, 26.81
+[Sat Jan 29 22:02:14 2022] Your Location is 1014.29, -2206.39, 26.81
+[Sat Jan 29 22:02:14 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:02:16 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:02:17 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:02:23 2022] Players on EverQuest:
+[Sat Jan 29 22:02:23 2022] ---------------------------
+[Sat Jan 29 22:02:23 2022] [37 Shadow Knight] Bozho (Troll)
+[Sat Jan 29 22:02:23 2022] There is 1 player in Dreadlands.
+[Sat Jan 29 22:02:29 2022] Your Location is 1012.71, -2267.70, 26.81
+[Sat Jan 29 22:02:29 2022] You think you are heading East.
+[Sat Jan 29 22:02:37 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:02:45 2022] You no longer have a target.
+[Sat Jan 29 22:03:11 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:03:11 2022] Your Location is 1000.83, -2181.61, 26.81
+[Sat Jan 29 22:03:12 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:03:22 2022] a stoneleer cockatrice scowls at you, ready to attack -- You could probably win this fight.
+[Sat Jan 29 22:03:26 2022] a stoneleer cockatrice scowls at you, ready to attack -- You could probably win this fight.
+[Sat Jan 29 22:03:27 2022] Your Location is 997.53, -2223.16, 26.81
+[Sat Jan 29 22:03:27 2022] You think you are heading North.
+[Sat Jan 29 22:03:34 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:03:40 2022] Your Location is 1006.48, -2220.04, 26.81
+[Sat Jan 29 22:03:40 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:03:46 2022] Your Location is 1014.72, -2210.33, 26.81
+[Sat Jan 29 22:03:47 2022] You think you are heading North.
+[Sat Jan 29 22:04:06 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:04:06 2022] Bozho beams a smile at a stoneleer cockatrice
+[Sat Jan 29 22:04:16 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:04:17 2022] Your Location is 1015.34, -2190.78, 26.81
+[Sat Jan 29 22:04:17 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:04:18 2022] Your Location is 1038.43, -2158.23, 26.81
+[Sat Jan 29 22:04:19 2022] Your Location is 1046.03, -2145.87, 26.81
+[Sat Jan 29 22:04:19 2022] You can't use that command right now...
+[Sat Jan 29 22:04:22 2022] Your Location is 1004.28, -2182.07, 26.81
+[Sat Jan 29 22:04:22 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:04:27 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:04:27 2022] Your Location is 1011.60, -2205.29, 26.81
+[Sat Jan 29 22:04:27 2022] You think you are heading North.
+[Sat Jan 29 22:04:28 2022] Your Location is 1010.15, -2205.62, 26.81
+[Sat Jan 29 22:04:29 2022] Your Location is 997.53, -2193.53, 26.81
+[Sat Jan 29 22:04:29 2022] You think you are heading North.
+[Sat Jan 29 22:04:30 2022] Your Location is 997.53, -2185.80, 26.81
+[Sat Jan 29 22:04:48 2022] Your Location is 997.57, -2293.39, 26.81
+[Sat Jan 29 22:04:49 2022] You think you are heading East.
+[Sat Jan 29 22:04:52 2022] Your Location is 1028.68, -2173.96, 26.81
+[Sat Jan 29 22:04:52 2022] You think you are heading West.
+[Sat Jan 29 22:05:00 2022] Your Location is 997.90, -2181.90, 26.81
+[Sat Jan 29 22:05:00 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:05:01 2022] a petrifier cockatrice regards you indifferently -- it appears to be quite formidable.
+[Sat Jan 29 22:05:01 2022] Your Location is 997.53, -2151.08, 26.81
+[Sat Jan 29 22:05:07 2022] Your Location is 1049.38, -2321.13, 26.81
+[Sat Jan 29 22:05:07 2022] a voracious brute scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:05:08 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:05:10 2022] Your Location is 1000.61, -2230.28, 26.81
+[Sat Jan 29 22:05:11 2022] You think you are heading West.
+[Sat Jan 29 22:05:13 2022] Your Location is 997.53, -2171.93, 26.81
+[Sat Jan 29 22:05:13 2022] You think you are heading North.
+[Sat Jan 29 22:05:14 2022] a stonegazer cockatrice scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:05:18 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:05:22 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:05:34 2022] a stonegazer cockatrice scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:05:43 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:05:45 2022] You invite Bozho to join your group.
+[Sat Jan 29 22:05:51 2022] Your Location is 1000.91, -2165.00, 26.81
+[Sat Jan 29 22:05:51 2022] You think you are heading North.
+[Sat Jan 29 22:05:53 2022] Your Location is 1045.98, -2143.48, 26.81
+[Sat Jan 29 22:05:53 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:05:56 2022] Your Location is 1102.08, -2026.20, 26.81
+[Sat Jan 29 22:05:57 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:05:57 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:05:58 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:05:59 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:06:01 2022] Your Location is 1096.02, -2036.14, 26.81
+[Sat Jan 29 22:06:01 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:06:02 2022] Your Location is 1084.99, -2029.05, 26.81
+[Sat Jan 29 22:06:05 2022] a stonegazer cockatrice scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:06:05 2022] Your Location is 1075.93, -2011.37, 26.81
+[Sat Jan 29 22:06:06 2022] You think you are heading North.
+[Sat Jan 29 22:06:08 2022] Your Location is 1101.64, -2010.67, 26.81
+[Sat Jan 29 22:06:08 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:06:09 2022] That is not an object you can inspect.
+[Sat Jan 29 22:06:09 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:06:10 2022] Your Location is 1101.85, -2011.06, 26.81
+[Sat Jan 29 22:06:10 2022] Bozho rejects your offer to join the group.
+[Sat Jan 29 22:06:10 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:06:11 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:06:13 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:06:15 2022] Your Location is 1102.40, -2015.26, 26.81
+[Sat Jan 29 22:06:16 2022] You think you are heading SouthEast.
+[Sat Jan 29 22:06:23 2022] That is not an object you can inspect.
+[Sat Jan 29 22:06:27 2022] That is not a valid command.  Please use /help.
+[Sat Jan 29 22:06:29 2022] That is not an object you can inspect.
+[Sat Jan 29 22:06:30 2022] You no longer have a target.
+[Sat Jan 29 22:06:39 2022] NAMES OF THOSE CURRENTLY BEING IGNORED:
+[Sat Jan 29 22:06:40 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:07:23 2022] Your Location is 1110.50, -2031.79, 26.81
+[Sat Jan 29 22:07:24 2022] You think you are heading SouthWest.
+[Sat Jan 29 22:07:24 2022] Your Location is 1109.47, -2029.92, 26.81
+[Sat Jan 29 22:07:39 2022] You no longer have a target.
+[Sat Jan 29 22:08:32 2022] The spirit of wolf leaves you.
+[Sat Jan 29 22:08:41 2022] Turns on/off the ability to inspect other players by right-clicking.
+[Sat Jan 29 22:08:41 2022] FORMAT: /toggleinspect <on | off>.
+[Sat Jan 29 22:08:41 2022] You are currently NOT able to inspect other players by right-clicking on them.
+[Sat Jan 29 22:08:43 2022] You are currently able to inspect other players by right-clicking on them.
+[Sat Jan 29 22:08:44 2022] Your Location is 1005.52, -2222.08, 26.81
+[Sat Jan 29 22:08:45 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:08:45 2022] Your Location is 1002.36, -2224.27, 26.81
+[Sat Jan 29 22:08:51 2022] You told Bozho, '/toggeli'
+[Sat Jan 29 22:09:03 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:09:14 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:09:57 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:10:09 2022] Your Location is 1002.07, -2224.06, 26.81
+[Sat Jan 29 22:10:09 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:10:09 2022] Your Location is 999.85, -2220.52, 26.81
+[Sat Jan 29 22:10:10 2022] Your Location is 1003.48, -2220.34, 26.81
+[Sat Jan 29 22:10:11 2022] Your Location is 1006.42, -2222.87, 26.81
+[Sat Jan 29 22:10:11 2022] Your Location is 1002.28, -2224.48, 26.81
+[Sat Jan 29 22:10:11 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:10:17 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:10:29 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:10:48 2022] Your Location is 1002.48, -2236.01, 26.81
+[Sat Jan 29 22:10:48 2022] You think you are heading North.
+[Sat Jan 29 22:10:49 2022] Your Location is 1002.48, -2236.01, 26.81
+[Sat Jan 29 22:10:51 2022] Your Location is 1004.67, -2219.14, 26.81
+[Sat Jan 29 22:10:51 2022] You think you are heading East.
+[Sat Jan 29 22:10:51 2022] Your Location is 1012.53, -2227.36, 26.81
+[Sat Jan 29 22:10:52 2022] Your Location is 1013.03, -2241.95, 26.81
+[Sat Jan 29 22:10:57 2022] You forget Spirit Sight.
+[Sat Jan 29 22:11:01 2022] Beginning to memorize Spirit of Wolf...
+[Sat Jan 29 22:11:01 2022] You have finished memorizing Spirit of Wolf.
+[Sat Jan 29 22:11:04 2022] Your Location is 1000.84, -2215.09, 26.81
+[Sat Jan 29 22:11:05 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:11:05 2022] You haven't recovered yet...
+[Sat Jan 29 22:11:05 2022] You haven't recovered yet...
+[Sat Jan 29 22:11:06 2022] You haven't recovered yet...
+[Sat Jan 29 22:11:06 2022] You begin casting Spirit of Wolf.
+[Sat Jan 29 22:11:06 2022] You haven't recovered yet...
+[Sat Jan 29 22:11:11 2022] You feel the spirit of wolf enter you.
+[Sat Jan 29 22:11:13 2022] Your Location is 1000.84, -2215.09, 26.81
+[Sat Jan 29 22:11:13 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:11:19 2022] Your Location is 998.57, -2343.74, 26.81
+[Sat Jan 29 22:11:19 2022] You think you are heading East.
+[Sat Jan 29 22:11:39 2022] Bozho is looking at your equipment...
+[Sat Jan 29 22:12:09 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:12:10 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:12:11 2022] Your Location is 1103.39, -2362.75, 26.81
+[Sat Jan 29 22:12:12 2022] You think you are heading North.
+[Sat Jan 29 22:12:12 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:12:16 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:12:22 2022] Your Location is 1026.54, -2211.26, 26.81
+[Sat Jan 29 22:12:22 2022] You have no idea what direction you are facing.
+[Sat Jan 29 22:12:23 2022] Your Location is 1012.18, -2238.41, 26.81
+[Sat Jan 29 22:12:24 2022] Your Location is 1006.01, -2287.48, 26.81
+[Sat Jan 29 22:12:24 2022] Barein regards you indifferently -- what would you like your tombstone to say?
+[Sat Jan 29 22:12:24 2022] You are inspecting Barein.
+[Sat Jan 29 22:12:26 2022] Your Location is 1017.76, -2335.76, 26.81
+[Sat Jan 29 22:12:26 2022] You think you are heading East.
+[Sat Jan 29 22:12:26 2022] a petrifier cockatrice regards you indifferently -- it appears to be quite formidable.
+[Sat Jan 29 22:12:30 2022] Your Location is 1062.17, -2272.97, 26.81
+[Sat Jan 29 22:12:30 2022] You think you are heading West.
+[Sat Jan 29 22:12:32 2022] Your Location is 1032.16, -2190.37, 26.81
+[Sat Jan 29 22:12:32 2022] You think you are heading North.
+[Sat Jan 29 22:12:38 2022] Your eyes stop tingling.
+[Sat Jan 29 22:12:55 2022] Your Location is 1053.22, -2197.74, 26.81
+[Sat Jan 29 22:12:55 2022] You think you are heading SouthWest.
+[Sat Jan 29 22:12:58 2022] Your Location is 999.13, -2162.70, 26.81
+[Sat Jan 29 22:12:58 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:12:59 2022] Your Location is 997.53, -2150.68, 26.81
+[Sat Jan 29 22:13:23 2022] Your Location is 1001.27, -2154.44, 26.81
+[Sat Jan 29 22:13:24 2022] You think you are heading East.
+[Sat Jan 29 22:13:25 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:13:25 2022] You are inspecting Bozho.
+[Sat Jan 29 22:13:25 2022] Your Location is 1006.59, -2179.41, 26.81
+[Sat Jan 29 22:13:26 2022] You think you are heading SouthEast.
+[Sat Jan 29 22:13:26 2022] Your Location is 1010.75, -2171.96, 26.81
+[Sat Jan 29 22:13:30 2022] Bozho regards you indifferently -- he appears to be quite formidable.
+[Sat Jan 29 22:13:30 2022] You are inspecting Bozho.
+[Sat Jan 29 22:14:21 2022] Your Location is 1011.93, -2177.62, 26.81
+[Sat Jan 29 22:14:22 2022] You think you are heading SouthEast.
+[Sat Jan 29 22:14:23 2022] Your Location is 1020.64, -2159.95, 26.81
+[Sat Jan 29 22:14:40 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:14:47 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:15:41 2022] Your Location is 997.53, -2180.54, 26.81
+[Sat Jan 29 22:15:41 2022] You think you are heading North.
+[Sat Jan 29 22:15:44 2022] You begin casting Quickness.
+[Sat Jan 29 22:15:47 2022] Bozho feels much faster.
+[Sat Jan 29 22:15:57 2022] You begin casting Togor's Insects.
+[Sat Jan 29 22:15:57 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:16:02 2022] A stonegazer cockatrice yawns.
+[Sat Jan 29 22:16:49 2022] Bozho regains concentration and continues casting.
+[Sat Jan 29 22:20:38 2022] You begin casting Enstill.
+[Sat Jan 29 22:20:39 2022] Your spell is interrupted.
+[Sat Jan 29 22:20:40 2022] You begin casting Togor's Insects.
+[Sat Jan 29 22:20:45 2022] A drolvarg gnasher yawns.
+[Sat Jan 29 22:21:19 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:21:19 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:22:32 2022] Your faction standing with PackofTomar could not possibly get any worse.
+[Sat Jan 29 22:23:13 2022] Your Location is 1001.93, -2221.67, 26.81
+[Sat Jan 29 22:23:13 2022] a petrifier cockatrice regards you indifferently -- it appears to be quite formidable.
+[Sat Jan 29 22:23:14 2022] You think you are heading East.
+[Sat Jan 29 22:23:16 2022] Your Location is 1040.00, -2210.23, 26.81
+[Sat Jan 29 22:23:16 2022] You think you are heading SouthWest.
+[Sat Jan 29 22:24:55 2022] You forget Spirit of Wolf.
+[Sat Jan 29 22:24:55 2022] Beginning to memorize Vigilant Spirit...
+[Sat Jan 29 22:24:56 2022] You have finished memorizing Vigilant Spirit.
+[Sat Jan 29 22:25:00 2022] Your Location is 1000.77, -2192.06, 26.81
+[Sat Jan 29 22:25:01 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:25:08 2022] Beginning to scribe Guardian Spirit...
+[Sat Jan 29 22:25:09 2022] You have finished scribing Guardian Spirit.
+[Sat Jan 29 22:25:11 2022] You forget Vigilant Spirit.
+[Sat Jan 29 22:25:11 2022] Beginning to memorize Guardian Spirit...
+[Sat Jan 29 22:25:12 2022] You have finished memorizing Guardian Spirit.
+[Sat Jan 29 22:25:12 2022] You haven't recovered yet...
+[Sat Jan 29 22:25:16 2022] You no longer have a target.
+[Sat Jan 29 22:25:21 2022] Barein regains concentration and continues casting.
+[Sat Jan 29 22:26:20 2022] Your Location is 1002.46, -2194.68, 26.85
+[Sat Jan 29 22:26:21 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:26:23 2022] Your Location is 1003.50, -2210.64, 26.84
+[Sat Jan 29 22:26:23 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:26:24 2022] Your Location is 1003.78, -2210.52, 27.00
+[Sat Jan 29 22:26:24 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:26:44 2022] Your Location is 1004.99, -2211.06, 27.58
+[Sat Jan 29 22:26:44 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:26:45 2022] Your Location is 1005.11, -2211.18, 27.57
+[Sat Jan 29 22:26:46 2022] You begin casting Guardian Spirit.
+[Sat Jan 29 22:26:46 2022] You can't use that command right now...
+[Sat Jan 29 22:26:48 2022] You can't use that command right now...
+[Sat Jan 29 22:27:00 2022] Kenobtik says 'At your service Master.'
+[Sat Jan 29 22:27:00 2022] You summon a guardian spirit.
+[Sat Jan 29 22:27:02 2022] Your Location is 997.53, -2220.43, 27.24
+[Sat Jan 29 22:27:02 2022] You think you are heading North.
+[Sat Jan 29 22:27:03 2022] Your Location is 997.53, -2220.43, 27.36
+[Sat Jan 29 22:27:04 2022] Dirtknap says out of character, 'smawwwww'
+[Sat Jan 29 22:27:07 2022] Your Location is 1017.43, -2225.09, 27.37
+[Sat Jan 29 22:27:07 2022] You think you are heading West.
+[Sat Jan 29 22:27:08 2022] Kenobtik tells you, 'Attacking a voracious brute Master.'
+[Sat Jan 29 22:27:09 2022] You begin casting Togor's Insects.
+[Sat Jan 29 22:27:11 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:11 2022] Kenobtik kicks a voracious brute for 16 points of damage.
+[Sat Jan 29 22:27:14 2022] A voracious brute yawns.
+[Sat Jan 29 22:27:16 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:18 2022] Your Location is 1059.76, -2137.72, 26.81
+[Sat Jan 29 22:27:18 2022] You think you are heading South.
+[Sat Jan 29 22:27:18 2022] Your Location is 1030.77, -2131.76, 26.82
+[Sat Jan 29 22:27:19 2022] You forget Guardian Spirit.
+[Sat Jan 29 22:27:21 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:23 2022] Kenobtik bites a voracious brute for 18 points of damage.
+[Sat Jan 29 22:27:25 2022] Kenobtik bites a voracious brute for 21 points of damage.
+[Sat Jan 29 22:27:25 2022] Kenobtik bites a voracious brute for 18 points of damage.
+[Sat Jan 29 22:27:26 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:27 2022] Beginning to memorize Venom of the Snake...
+[Sat Jan 29 22:27:28 2022] You have finished memorizing Venom of the Snake.
+[Sat Jan 29 22:27:28 2022] Kenobtik bites a voracious brute for 37 points of damage.
+[Sat Jan 29 22:27:28 2022] Kenobtik bites a voracious brute for 17 points of damage.
+[Sat Jan 29 22:27:31 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:34 2022] Kenobtik bites a voracious brute for 11 points of damage.
+[Sat Jan 29 22:27:35 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:36 2022] You no longer have a target.
+[Sat Jan 29 22:27:40 2022] Kenobtik bites a voracious brute for 12 points of damage.
+[Sat Jan 29 22:27:40 2022] Kenobtik bites a voracious brute for 27 points of damage.
+[Sat Jan 29 22:27:40 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:42 2022] Kenobtik bashes a voracious brute for 11 points of damage.
+[Sat Jan 29 22:27:43 2022] Kenobtik bites a voracious brute for 10 points of damage.
+[Sat Jan 29 22:27:43 2022] Kenobtik bites a voracious brute for 34 points of damage.
+[Sat Jan 29 22:27:43 2022] Kenobtik bites a voracious brute for 37 points of damage.
+[Sat Jan 29 22:27:45 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:45 2022] You forget Chloroplast.
+[Sat Jan 29 22:27:45 2022] Beginning to memorize Scourge...
+[Sat Jan 29 22:27:46 2022] You have finished memorizing Scourge.
+[Sat Jan 29 22:27:48 2022] Your Location is 1006.35, -2142.79, 27.49
+[Sat Jan 29 22:27:48 2022] You think you are heading East.
+[Sat Jan 29 22:27:50 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:50 2022] Kenobtik bashes a voracious brute for 16 points of damage.
+[Sat Jan 29 22:27:50 2022] Auto attack on.
+[Sat Jan 29 22:27:51 2022] You try to pierce a voracious brute, but miss!
+[Sat Jan 29 22:27:51 2022] Kenobtik bites a voracious brute for 10 points of damage.
+[Sat Jan 29 22:27:53 2022] You try to pierce a voracious brute, but miss!
+[Sat Jan 29 22:27:54 2022] Kenobtik bites a voracious brute for 12 points of damage.
+[Sat Jan 29 22:27:54 2022] Your Location is 1047.28, -2150.38, 27.11
+[Sat Jan 29 22:27:54 2022] You think you are heading SouthEast.
+[Sat Jan 29 22:27:55 2022] Taunting attacker, Master.
+[Sat Jan 29 22:27:55 2022] You pierce a voracious brute for 10 points of damage.
+[Sat Jan 29 22:27:57 2022] Kenobtik bites a voracious brute for 37 points of damage.
+[Sat Jan 29 22:27:57 2022] You pierce a voracious brute for 19 points of damage.
+[Sat Jan 29 22:27:58 2022] Your Location is 1047.28, -2150.38, 27.35
+[Sat Jan 29 22:27:58 2022] You think you are heading East.
+[Sat Jan 29 22:27:58 2022] Kenobtik bashes a voracious brute for 14 points of damage.
+[Sat Jan 29 22:27:58 2022] Your Location is 1047.28, -2150.38, 27.00
+[Sat Jan 29 22:27:59 2022] You begin casting Blast of Poison.
+[Sat Jan 29 22:27:59 2022] You can't use that command while casting...
+[Sat Jan 29 22:27:59 2022] You can't use that command right now...
+[Sat Jan 29 22:28:00 2022] Kenobtik bites a voracious brute for 37 points of damage.
+[Sat Jan 29 22:28:00 2022] Taunting attacker, Master.
+[Sat Jan 29 22:28:03 2022] a voracious brute has been slain by Khorx!
+[Sat Jan 29 22:28:03 2022] You gain experience!!
+[Sat Jan 29 22:28:03 2022] You try to cast a spell on a voracious brutescorpse, but they are protected.
+[Sat Jan 29 22:28:07 2022] You receive 2 platinum, 15 gold, 8 silver and 8 copper as your split.
+[Sat Jan 29 22:28:11 2022] Your Location is 1000.94, -2211.12, 27.15
+[Sat Jan 29 22:28:12 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:28:15 2022] Your Location is 1006.25, -2202.36, 27.27
+[Sat Jan 29 22:28:15 2022] You think you are heading North.
+[Sat Jan 29 22:28:21 2022] Kenobtik says 'As you wish, oh great one.'
+[Sat Jan 29 22:28:22 2022] Your Location is 1006.25, -2202.36, 27.21
+[Sat Jan 29 22:28:22 2022] You think you are heading North.
+[Sat Jan 29 22:28:29 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:28:52 2022] Your Location is 1007.84, -2201.92, 26.97
+[Sat Jan 29 22:28:52 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:28:55 2022] Your Location is 1002.86, -2228.07, 27.35
+[Sat Jan 29 22:28:55 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:28:56 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:28:56 2022] Your Location is 1002.86, -2228.07, 26.94
+[Sat Jan 29 22:29:03 2022] Your target is out of range, get closer!
+[Sat Jan 29 22:29:03 2022] Your target is out of range, get closer!
+[Sat Jan 29 22:29:04 2022] Your target is out of range, get closer!
+[Sat Jan 29 22:29:04 2022] Your target is out of range, get closer!
+[Sat Jan 29 22:29:05 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:29:05 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:05 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:05 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:09 2022] a ravishing drolvarg was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:29:09 2022] A ravishing drolvarg has been poisoned.
+[Sat Jan 29 22:29:10 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:11 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:11 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:11 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:11 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:11 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:12 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:12 2022] You begin casting Scourge.
+[Sat Jan 29 22:29:12 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:12 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:13 2022] You haven't recovered yet...
+[Sat Jan 29 22:29:16 2022] a ravishing drolvarg was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:29:16 2022] A ravishing drolvarg sweats and shivers, looking feverish.
+[Sat Jan 29 22:29:20 2022] Your spell fizzles!
+[Sat Jan 29 22:29:37 2022] You forget Quickness.
+[Sat Jan 29 22:29:37 2022] Beginning to memorize Sicken...
+[Sat Jan 29 22:29:38 2022] You have finished memorizing Sicken.
+[Sat Jan 29 22:29:44 2022] You begin casting Sicken.
+[Sat Jan 29 22:29:46 2022] a ravishing drolvarg was hit by non-melee for 8 points of damage.
+[Sat Jan 29 22:29:46 2022] A ravishing drolvarg sweats and shivers, looking feverish.
+[Sat Jan 29 22:29:47 2022] a petrifier cockatrice says 'Guarding with my life..oh splendid one.'
+[Sat Jan 29 22:29:53 2022] Your Venom of the Snake spell has worn off.
+[Sat Jan 29 22:29:57 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:30:02 2022] a ravishing drolvarg was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:30:02 2022] A ravishing drolvarg has been poisoned.
+[Sat Jan 29 22:30:47 2022] Your Venom of the Snake spell has worn off.
+[Sat Jan 29 22:30:51 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:30:55 2022] a ravishing drolvarg was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:30:55 2022] A ravishing drolvarg has been poisoned.
+[Sat Jan 29 22:30:59 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:31:00 2022] I don't see anyone by that name around here...
+[Sat Jan 29 22:31:00 2022] You can't use that command while casting...
+[Sat Jan 29 22:31:01 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:31:09 2022] You forget Sicken.
+[Sat Jan 29 22:31:16 2022] Beginning to memorize Chloroplast...
+[Sat Jan 29 22:31:17 2022] You have finished memorizing Chloroplast.
+[Sat Jan 29 22:31:23 2022] Your Scourge spell has worn off.
+[Sat Jan 29 22:31:24 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:31:24 2022] You grab hold of a ravishing drolvarg and begin to dance with it.
+[Sat Jan 29 22:31:24 2022] You can't use that command while casting...
+[Sat Jan 29 22:31:25 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:31:30 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:31:30 2022] You grab hold of a ravishing drolvarg and begin to dance with it.
+[Sat Jan 29 22:31:30 2022] You can't use that command while casting...
+[Sat Jan 29 22:31:31 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:31:32 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:31:35 2022] Your faction standing with PackofTomar could not possibly get any worse.
+[Sat Jan 29 22:31:35 2022] You gain experience!!
+[Sat Jan 29 22:31:36 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:31:36 2022] You stand on your tip-toes and do a dance of joy!
+[Sat Jan 29 22:31:36 2022] You can't use that command while casting...
+[Sat Jan 29 22:31:37 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:31:39 2022] You receive 14 gold, 4 silver and 8 copper as your split.
+[Sat Jan 29 22:31:39 2022] You can't use that command right now...
+[Sat Jan 29 22:31:41 2022] --You have looted a Jasper.--
+[Sat Jan 29 22:31:54 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:31:54 2022] You stand on your tip-toes and do a dance of joy!
+[Sat Jan 29 22:31:54 2022] You can't use that command while casting...
+[Sat Jan 29 22:31:55 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:32:06 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:32:07 2022] You stand on your tip-toes and do a dance of joy!
+[Sat Jan 29 22:32:07 2022] You can't use that command while casting...
+[Sat Jan 29 22:32:07 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:32:12 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:32:12 2022] You stand on your tip-toes and do a dance of joy!
+[Sat Jan 29 22:32:13 2022] You can't use that command while casting...
+[Sat Jan 29 22:32:13 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:32:18 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:32:18 2022] You stand on your tip-toes and do a dance of joy!
+[Sat Jan 29 22:32:18 2022] You can't use that command while casting...
+[Sat Jan 29 22:32:19 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:32:23 2022] You must first select a target for this spell!
+[Sat Jan 29 22:32:24 2022] You begin casting Chloroplast.
+[Sat Jan 29 22:32:28 2022] You can't use that command while casting...
+[Sat Jan 29 22:32:29 2022] You can't use that command while casting...
+[Sat Jan 29 22:32:30 2022] You begin to regenerate.
+[Sat Jan 29 22:32:47 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:32:51 2022] a drolvarg snarler was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:32:51 2022] A drolvarg snarler has been poisoned.
+[Sat Jan 29 22:32:56 2022] You begin casting Scourge.
+[Sat Jan 29 22:33:00 2022] a drolvarg snarler was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:33:00 2022] A drolvarg snarler sweats and shivers, looking feverish.
+[Sat Jan 29 22:33:02 2022] A drolvarg snarler bashes YOU for 12 points of damage.
+[Sat Jan 29 22:33:02 2022] A drolvarg snarler hits YOU for 28 points of damage.
+[Sat Jan 29 22:33:02 2022] Auto attack on.
+[Sat Jan 29 22:33:02 2022] You try to pierce a drolvarg snarler, but a drolvarg snarler parries!
+[Sat Jan 29 22:33:04 2022] Auto attack off.
+[Sat Jan 29 22:33:05 2022] A drolvarg snarler hits YOU for 42 points of damage.
+[Sat Jan 29 22:33:06 2022] Auto attack on.
+[Sat Jan 29 22:33:06 2022] You pierce a drolvarg snarler for 4 points of damage.
+[Sat Jan 29 22:33:07 2022] Auto attack off.
+[Sat Jan 29 22:33:07 2022] A drolvarg snarler hits YOU for 11 points of damage.
+[Sat Jan 29 22:33:07 2022] A drolvarg snarler hits YOU for 11 points of damage.
+[Sat Jan 29 22:33:10 2022] A drolvarg snarler bashes YOU for 15 points of damage.
+[Sat Jan 29 22:33:10 2022] A drolvarg snarler hits YOU for 11 points of damage.
+[Sat Jan 29 22:33:16 2022] a drolvarg snarler scowls at you, ready to attack -- You would probably win this fight..it's not certain though.
+[Sat Jan 29 22:33:24 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:33:25 2022] You grab hold of a drolvarg snarler and begin to dance with it.
+[Sat Jan 29 22:33:25 2022] You can't use that command while casting...
+[Sat Jan 29 22:33:25 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:33:30 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:33:30 2022] You grab hold of a drolvarg snarler and begin to dance with it.
+[Sat Jan 29 22:33:31 2022] You can't use that command while casting...
+[Sat Jan 29 22:33:31 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:33:37 2022] Your faction standing with PackofTomar could not possibly get any worse.
+[Sat Jan 29 22:33:37 2022] You gain experience!!
+[Sat Jan 29 22:33:37 2022] You begin casting Greater Healing.
+[Sat Jan 29 22:33:41 2022] Scaleskin has healed you for 270 points of damage.
+[Sat Jan 29 22:33:41 2022] You feel much better.
+[Sat Jan 29 22:33:43 2022] Your Location is 1022.61, -2232.30, 26.88
+[Sat Jan 29 22:33:43 2022] You think you are heading West.
+[Sat Jan 29 22:33:44 2022] You receive 13 gold, 18 silver and 13 copper as your split.
+[Sat Jan 29 22:33:44 2022] Your Location is 1017.15, -2214.49, 27.48
+[Sat Jan 29 22:33:45 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:33:48 2022] a petrifier cockatrice regards you indifferently -- it appears to be quite formidable.
+[Sat Jan 29 22:33:50 2022] Your Location is 1008.17, -2245.96, 27.23
+[Sat Jan 29 22:33:50 2022] You think you are heading North.
+[Sat Jan 29 22:33:55 2022] You take a bite out of a Fruit.
+[Sat Jan 29 22:33:55 2022] Ahhh. That was tasty.
+[Sat Jan 29 22:33:57 2022] Your Location is 1008.54, -2270.62, 27.03
+[Sat Jan 29 22:33:57 2022] You think you are heading West.
+[Sat Jan 29 22:34:04 2022] Your Location is 1003.14, -2227.35, 26.88
+[Sat Jan 29 22:34:04 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:34:10 2022] Your Location is 1018.31, -2215.38, 26.87
+[Sat Jan 29 22:34:11 2022] You think you are heading East.
+[Sat Jan 29 22:34:12 2022] a petrifier cockatrice regards you indifferently -- it appears to be quite formidable.
+[Sat Jan 29 22:34:15 2022] Khorx regards you indifferently -- what would you like your tombstone to say?
+[Sat Jan 29 22:34:15 2022] You are inspecting Khorx.
+[Sat Jan 29 22:34:15 2022] Your Location is 1025.08, -2160.58, 27.34
+[Sat Jan 29 22:34:16 2022] You think you are heading SouthWest.
+[Sat Jan 29 22:34:17 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:34:18 2022] Your Location is 1009.04, -2213.80, 26.95
+[Sat Jan 29 22:34:18 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:34:19 2022] a voracious brute scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:34:21 2022] a voracious brute scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:34:21 2022] Your Location is 1012.05, -2215.58, 26.89
+[Sat Jan 29 22:34:21 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:34:28 2022] Your Location is 1217.38, -2190.64, 49.55
+[Sat Jan 29 22:34:28 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:34:29 2022] a voracious brute scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:34:29 2022] Your Location is 1213.37, -2180.44, 49.43
+[Sat Jan 29 22:34:31 2022] Your Location is 1209.46, -2150.96, 50.33
+[Sat Jan 29 22:34:31 2022] You think you are heading SouthWest.
+[Sat Jan 29 22:34:33 2022] Your Location is 1197.93, -2149.64, 52.80
+[Sat Jan 29 22:34:37 2022] Your Location is 1040.31, -2114.74, 47.07
+[Sat Jan 29 22:34:37 2022] You think you are heading South.
+[Sat Jan 29 22:34:40 2022] Your Location is 1029.85, -2120.10, 51.42
+[Sat Jan 29 22:34:40 2022] You think you are heading North.
+[Sat Jan 29 22:35:01 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:35:01 2022] I don't see anyone by that name around here...
+[Sat Jan 29 22:35:02 2022] You can't use that command while casting...
+[Sat Jan 29 22:35:02 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:35:12 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:35:13 2022] I don't see anyone by that name around here...
+[Sat Jan 29 22:35:13 2022] You can't use that command while casting...
+[Sat Jan 29 22:35:13 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:35:21 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:35:26 2022] a voracious brute was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:35:26 2022] A voracious brute has been poisoned.
+[Sat Jan 29 22:35:28 2022] You haven't recovered yet...
+[Sat Jan 29 22:35:29 2022] You haven't recovered yet...
+[Sat Jan 29 22:35:29 2022] You begin casting Scourge.
+[Sat Jan 29 22:35:29 2022] You haven't recovered yet...
+[Sat Jan 29 22:35:29 2022] You haven't recovered yet...
+[Sat Jan 29 22:35:29 2022] You haven't recovered yet...
+[Sat Jan 29 22:35:29 2022] You haven't recovered yet...
+[Sat Jan 29 22:35:29 2022] You haven't recovered yet...
+[Sat Jan 29 22:35:33 2022] a voracious brute was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:35:33 2022] A voracious brute sweats and shivers, looking feverish.
+[Sat Jan 29 22:36:10 2022] Your Venom of the Snake spell has worn off.
+[Sat Jan 29 22:36:15 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:36:20 2022] a voracious brute was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:36:20 2022] A voracious brute has been poisoned.
+[Sat Jan 29 22:37:35 2022] Your Location is 1034.35, -2121.26, 52.59
+[Sat Jan 29 22:37:36 2022] You have no idea what direction you are facing.
+[Sat Jan 29 22:37:57 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:38:02 2022] a drolvarg rager was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:38:02 2022] A drolvarg rager has been poisoned.
+[Sat Jan 29 22:38:03 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:03 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:03 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:03 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:04 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:04 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:04 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:04 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:04 2022] You begin casting Scourge.
+[Sat Jan 29 22:38:04 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:04 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:05 2022] You haven't recovered yet...
+[Sat Jan 29 22:38:09 2022] a drolvarg rager was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:38:09 2022] A drolvarg rager sweats and shivers, looking feverish.
+[Sat Jan 29 22:38:09 2022] You have become better at Conjuration! (195)
+[Sat Jan 29 22:38:13 2022] Khorx regains concentration and continues casting.
+[Sat Jan 29 22:38:23 2022] Your Location is 1038.36, -2117.61, 51.69
+[Sat Jan 29 22:38:23 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:38:38 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:38:39 2022] Your spell is interrupted.
+[Sat Jan 29 22:38:49 2022] Your Venom of the Snake spell has worn off.
+[Sat Jan 29 22:38:51 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:38:55 2022] a drolvarg rager was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:38:55 2022] A drolvarg rager has been poisoned.
+[Sat Jan 29 22:39:01 2022] You have slain a drolvarg rager!
+[Sat Jan 29 22:39:01 2022] Your faction standing with PackofTomar could not possibly get any worse.
+[Sat Jan 29 22:39:01 2022] You gain experience!!
+[Sat Jan 29 22:39:12 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:39:13 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:39:15 2022] Your Location is 1029.85, -2120.11, 51.51
+[Sat Jan 29 22:39:15 2022] You think you are heading North.
+[Sat Jan 29 22:39:16 2022] Your Location is 1029.85, -2120.11, 51.71
+[Sat Jan 29 22:39:17 2022] Your Location is 1034.96, -2119.55, 51.43
+[Sat Jan 29 22:39:18 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:39:19 2022] Your Location is 1034.33, -2105.93, 51.43
+[Sat Jan 29 22:39:21 2022] Your Location is 1025.21, -2109.20, 51.53
+[Sat Jan 29 22:39:21 2022] You think you are heading East.
+[Sat Jan 29 22:39:22 2022] Your Location is 1024.95, -2109.90, 51.86
+[Sat Jan 29 22:39:23 2022] Your Location is 1025.18, -2118.37, 51.79
+[Sat Jan 29 22:39:23 2022] You think you are heading East.
+[Sat Jan 29 22:39:26 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:39:28 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:39:28 2022] I don't see anyone by that name around here...
+[Sat Jan 29 22:39:28 2022] You can't use that command while casting...
+[Sat Jan 29 22:39:28 2022] You can't use that command right now...
+[Sat Jan 29 22:39:29 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:39:35 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:39:36 2022] I don't see anyone by that name around here...
+[Sat Jan 29 22:39:36 2022] You can't use that command while casting...
+[Sat Jan 29 22:39:37 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:39:43 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:39:43 2022] I don't see anyone by that name around here...
+[Sat Jan 29 22:39:44 2022] You can't use that command while casting...
+[Sat Jan 29 22:39:44 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:39:45 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:39:48 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:39:49 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:39:50 2022] I don't see anyone by that name around here...
+[Sat Jan 29 22:39:50 2022] You can't use that command while casting...
+[Sat Jan 29 22:39:50 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:40:17 2022] You no longer have a target.
+[Sat Jan 29 22:40:18 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:40:38 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:40:43 2022] a drolvarg rager was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:40:43 2022] A drolvarg rager has been poisoned.
+[Sat Jan 29 22:40:48 2022] You begin casting Scourge.
+[Sat Jan 29 22:40:53 2022] a drolvarg rager was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:40:53 2022] A drolvarg rager sweats and shivers, looking feverish.
+[Sat Jan 29 22:40:55 2022] A drolvarg rager bashes YOU for 25 points of damage.
+[Sat Jan 29 22:40:55 2022] A drolvarg rager hits YOU for 79 points of damage.
+[Sat Jan 29 22:40:55 2022] A drolvarg rager hits YOU for 15 points of damage.
+[Sat Jan 29 22:40:58 2022] a drolvarg rager scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:41:00 2022] You begin casting Togor's Insects.
+[Sat Jan 29 22:41:02 2022] A drolvarg rager hits YOU for 23 points of damage.
+[Sat Jan 29 22:41:03 2022] Your spell is interrupted.
+[Sat Jan 29 22:41:03 2022] A drolvarg rager bashes YOU for 15 points of damage.
+[Sat Jan 29 22:41:05 2022] A drolvarg rager hits YOU for 39 points of damage.
+[Sat Jan 29 22:41:06 2022] Your Location is 1020.92, -2174.41, 30.16
+[Sat Jan 29 22:41:06 2022] You think you are heading South.
+[Sat Jan 29 22:41:26 2022] Your Venom of the Snake spell has worn off.
+[Sat Jan 29 22:41:29 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:41:33 2022] Your spell is interrupted.
+[Sat Jan 29 22:41:44 2022] Your faction standing with PackofTomar could not possibly get any worse.
+[Sat Jan 29 22:41:44 2022] You gain experience!!
+[Sat Jan 29 22:41:47 2022] Your Location is 1053.78, -2148.79, 27.32
+[Sat Jan 29 22:41:47 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:41:47 2022] You receive 1 platinum, 14 gold, 7 silver and 13 copper as your split.
+[Sat Jan 29 22:41:49 2022] You receive 9 gold, 8 silver and 2 copper as your split.
+[Sat Jan 29 22:41:54 2022] Your Location is 1000.31, -2214.22, 26.83
+[Sat Jan 29 22:41:54 2022] You think you are heading North.
+[Sat Jan 29 22:42:01 2022] Your Location is 998.34, -2238.20, 26.97
+[Sat Jan 29 22:42:01 2022] You think you are heading East.
+[Sat Jan 29 22:42:02 2022] You take a bite out of a Rabbit Meat.
+[Sat Jan 29 22:42:02 2022] Ahhh. That was tasty.
+[Sat Jan 29 22:42:03 2022] Your Location is 1004.09, -2204.26, 27.43
+[Sat Jan 29 22:42:04 2022] You think you are heading North.
+[Sat Jan 29 22:42:30 2022] Heavybean says out of character, 'whats fronas loc :('
+[Sat Jan 29 22:43:09 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:43:29 2022] Your Location is 1013.44, -2195.30, 27.17
+[Sat Jan 29 22:43:29 2022] You think you are heading North.
+[Sat Jan 29 22:43:30 2022] Your Location is 1010.20, -2199.62, 27.08
+[Sat Jan 29 22:43:32 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:43:33 2022] You can't use that command right now...
+[Sat Jan 29 22:43:37 2022] You can't use that command right now...
+[Sat Jan 29 22:43:37 2022] a voracious brute was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:43:37 2022] A voracious brute has been poisoned.
+[Sat Jan 29 22:43:39 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:39 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:39 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:39 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:40 2022] You begin casting Scourge.
+[Sat Jan 29 22:43:40 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:40 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:40 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:40 2022] You haven't recovered yet...
+[Sat Jan 29 22:43:44 2022] a voracious brute was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:43:44 2022] A voracious brute sweats and shivers, looking feverish.
+[Sat Jan 29 22:43:46 2022] A voracious brute bashes YOU for 23 points of damage.
+[Sat Jan 29 22:43:46 2022] A voracious brute hits YOU for 79 points of damage.
+[Sat Jan 29 22:43:51 2022] A voracious brute hits YOU for 51 points of damage.
+[Sat Jan 29 22:44:23 2022] Your Venom of the Snake spell has worn off.
+[Sat Jan 29 22:44:27 2022] You begin casting Venom of the Snake.
+[Sat Jan 29 22:44:32 2022] a voracious brute was hit by non-melee for 40 points of damage.
+[Sat Jan 29 22:44:32 2022] A voracious brute has been poisoned.
+[Sat Jan 29 22:44:47 2022] You gain experience!!
+[Sat Jan 29 22:45:04 2022] Your Location is 997.53, -2244.73, 27.32
+[Sat Jan 29 22:45:04 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:45:08 2022] Your Location is 997.53, -2210.01, 27.16
+[Sat Jan 29 22:45:08 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:45:09 2022] Your Location is 997.53, -2210.01, 26.91
+[Sat Jan 29 22:45:15 2022] Galleta regains concentration and continues casting.
+[Sat Jan 29 22:46:45 2022] Szavyor invites you to join a group.
+[Sat Jan 29 22:46:45 2022] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Sat Jan 29 22:46:49 2022] You notify Szavyor that you agree to join the group.
+[Sat Jan 29 22:46:49 2022] You have joined the group.
+[Sat Jan 29 22:47:19 2022] The spirit of wolf leaves you.
+[Sat Jan 29 22:47:43 2022] You have stopped regenerating.
+[Sat Jan 29 22:48:12 2022] You receive 1 platinum, 4 gold, 4 silver, 3 copper as your split.
+[Sat Jan 29 22:48:17 2022] Szavyor begins to walk faster.
+[Sat Jan 29 22:50:25 2022] Your Location is 1004.84, -2187.73, 26.86
+[Sat Jan 29 22:50:26 2022] You think you are heading North.
+[Sat Jan 29 22:50:28 2022] Your Location is 1001.14, -2186.78, 26.89
+[Sat Jan 29 22:50:28 2022] You think you are heading East.
+[Sat Jan 29 22:50:29 2022] Your Location is 1000.81, -2186.03, 27.44
+[Sat Jan 29 22:50:30 2022] Your Location is 999.68, -2183.96, 26.89
+[Sat Jan 29 22:50:31 2022] You think you are heading NorthEast.
+[Sat Jan 29 22:50:31 2022] Your Location is 999.68, -2183.96, 26.83
+[Sat Jan 29 22:52:14 2022] Your Location is 1000.91, -2184.37, 27.45
+[Sat Jan 29 22:52:15 2022] You think you are heading North.
+[Sat Jan 29 22:52:15 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 22:52:44 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 22:53:13 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 22:53:26 2022] You no longer have a target.
+[Sat Jan 29 22:53:45 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 22:54:16 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 22:54:45 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:50 2022] You gain party experience!!
+[Sat Jan 29 22:54:59 2022] You gain party experience!!
+[Sat Jan 29 22:54:59 2022] You gain party experience!!
+[Sat Jan 29 22:55:09 2022] You gain party experience!!
+[Sat Jan 29 22:55:09 2022] You gain party experience!!
+[Sat Jan 29 22:55:13 2022] You gain party experience!!
+[Sat Jan 29 22:55:14 2022] You gain party experience!!
+[Sat Jan 29 22:55:18 2022] You gain party experience!!
+[Sat Jan 29 22:55:36 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 22:55:40 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 22:55:58 2022] You receive 0 platinum, 1 gold, 3 silver, 2 copper as your split.
+[Sat Jan 29 22:56:01 2022] Your Location is 1007.66, -2183.70, 27.45
+[Sat Jan 29 22:56:01 2022] You think you are heading East.
+[Sat Jan 29 22:56:04 2022] Your Location is 1028.57, -2189.72, 26.81
+[Sat Jan 29 22:56:05 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:56:07 2022] You receive 1 platinum, 1 gold, 4 silver, 5 copper as your split.
+[Sat Jan 29 22:56:08 2022] Error: OP_LootRequest: Corpse not found (ent = 0)
+[Sat Jan 29 22:56:10 2022] a drolvarg rager scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:56:11 2022] You receive 0 platinum, 1 gold, 2 silver, 1 copper as your split.
+[Sat Jan 29 22:56:12 2022] a drolvarg rager scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:56:13 2022] You receive 0 platinum, 6 gold, 7 silver, 8 copper as your split.
+[Sat Jan 29 22:56:13 2022] Your Location is 1046.04, -2185.00, 27.10
+[Sat Jan 29 22:56:13 2022] You think you are heading NorthWest.
+[Sat Jan 29 22:56:14 2022] You receive 1 platinum, 5 gold, 3 silver, 5 copper as your split.
+[Sat Jan 29 22:56:14 2022] You receive 0 platinum, 1 gold, 0 silver, 2 copper as your split.
+[Sat Jan 29 22:56:15 2022] Your Location is 1051.48, -2179.69, 26.81
+[Sat Jan 29 22:56:15 2022] You receive 0 platinum, 3 gold, 0 silver, 0 copper as your split.
+[Sat Jan 29 22:56:15 2022] Someone is already looting that corpse.
+[Sat Jan 29 22:56:16 2022] You receive 1 platinum, 4 gold, 1 silver, 2 copper as your split.
+[Sat Jan 29 22:56:17 2022] You receive 2 platinum, 1 gold, 1 silver, 1 copper as your split.
+[Sat Jan 29 22:56:17 2022] You receive 0 platinum, 6 gold, 5 silver, 4 copper as your split.
+[Sat Jan 29 22:56:18 2022] Someone is already looting that corpse.
+[Sat Jan 29 22:56:18 2022] You receive 0 platinum, 2 gold, 4 silver, 6 copper as your split.
+[Sat Jan 29 22:56:22 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:56:23 2022] You receive 0 platinum, 6 gold, 6 silver, 2 copper as your split.
+[Sat Jan 29 22:56:24 2022] Your Location is 1068.50, -2160.80, 26.81
+[Sat Jan 29 22:56:24 2022] You think you are heading North.
+[Sat Jan 29 22:56:25 2022] You receive 0 platinum, 9 gold, 1 silver, 3 copper as your split.
+[Sat Jan 29 22:56:26 2022] You receive 0 platinum, 2 gold, 5 silver, 3 copper as your split.
+[Sat Jan 29 22:56:27 2022] You receive 0 platinum, 5 gold, 6 silver, 5 copper as your split.
+[Sat Jan 29 22:56:28 2022] You receive 0 platinum, 0 gold, 12 silver, 8 copper as your split.
+[Sat Jan 29 22:56:30 2022] You receive 0 platinum, 9 gold, 9 silver, 3 copper as your split.
+[Sat Jan 29 22:56:30 2022] a drolvarg rager has been slain by Trumpthat!
+[Sat Jan 29 22:56:30 2022] You gain party experience!!
+[Sat Jan 29 22:56:31 2022] Now any corpse you loot, except your own, will be hidden when you finish looting but leave items on the corpse.
+[Sat Jan 29 22:56:31 2022] You receive 0 platinum, 4 gold, 1 silver, 4 copper as your split.
+[Sat Jan 29 22:56:32 2022] You receive 1 platinum, 1 gold, 2 silver, 1 copper as your split.
+[Sat Jan 29 22:56:32 2022] Your Location is 1074.17, -2156.42, 27.46
+[Sat Jan 29 22:56:32 2022] You can't use that command right now...
+[Sat Jan 29 22:56:32 2022] You receive 0 platinum, 8 gold, 4 silver, 8 copper as your split.
+[Sat Jan 29 22:56:33 2022] Your Location is 1074.17, -2156.42, 27.39
+[Sat Jan 29 22:56:33 2022] You think you are heading SouthEast.
+[Sat Jan 29 22:56:37 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:56:38 2022] Your Location is 1074.74, -2157.71, 27.05
+[Sat Jan 29 22:56:39 2022] You think you are heading SouthEast.
+[Sat Jan 29 22:56:41 2022] Your Location is 1069.81, -2160.40, 27.42
+[Sat Jan 29 22:56:41 2022] You think you are heading SouthEast.
+[Sat Jan 29 22:56:42 2022] Your Location is 1064.90, -2166.90, 26.85
+[Sat Jan 29 22:56:42 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Jan 29 22:56:43 2022] Your Location is 1062.13, -2172.37, 27.09
+[Sat Jan 29 22:56:43 2022] You can't use that command right now...
+[Sat Jan 29 22:56:45 2022] Your Location is 1067.59, -2182.65, 26.81
+[Sat Jan 29 22:56:46 2022] You think you are heading East.
+[Sat Jan 29 22:56:47 2022] Your Location is 1078.43, -2201.82, 26.81
+[Sat Jan 29 22:56:48 2022] a ravishing drolvarg Gates.
+[Sat Jan 29 22:56:56 2022] You are too far away to loot that corpse.
+[Sat Jan 29 22:56:56 2022] This corpse will decay in 7 minute(s) 29 seconds.
+[Sat Jan 29 22:56:58 2022] Your Location is 1010.80, -2194.73, 26.95
+[Sat Jan 29 22:56:58 2022] You think you are heading North.
+[Sat Jan 29 22:56:59 2022] Your Location is 1029.27, -2177.60, 26.95
+[Sat Jan 29 22:57:00 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:57:01 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:57:02 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:57:02 2022] Your Location is 1046.00, -2165.40, 26.91
+[Sat Jan 29 22:57:02 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:57:03 2022] You think you are heading North.
+[Sat Jan 29 22:57:03 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:57:04 2022] Your Location is 1047.96, -2157.06, 27.20
+[Sat Jan 29 22:57:05 2022] You may not loot this corpse at this time.
+[Sat Jan 29 22:57:06 2022] Trumpthat has joined the group.
+[Sat Jan 29 22:57:08 2022] Your Location is 999.62, -2190.04, 26.85
+[Sat Jan 29 22:57:09 2022] You think you are heading North.
+[Sat Jan 29 22:57:27 2022] Trumpthat is looking at your equipment...
+[Sat Jan 29 22:58:03 2022] You begin casting Chloroplast.
+[Sat Jan 29 22:58:09 2022] You begin to regenerate.
+[Sat Jan 29 22:58:25 2022] You begin casting Cannibalize II.
+[Sat Jan 29 22:58:26 2022] You stand on your tip-toes and do a dance of joy!
+[Sat Jan 29 22:58:26 2022] You can't use that command while casting...
+[Sat Jan 29 22:58:26 2022] Your body aches as your mind clears.  You have taken 67 points of damage.
+[Sat Jan 29 22:58:35 2022] Trumpthat tells the group, '10 Dose Potion of Stinging Wort'
+[Sat Jan 29 22:59:17 2022] You no longer have a target.
+[Sat Jan 29 22:59:30 2022] Your Location is 999.27, -2176.54, 27.12
+[Sat Jan 29 22:59:30 2022] You think you are heading North.
+[Sat Jan 29 22:59:31 2022] Your Location is 1001.35, -2176.31, 27.18
+[Sat Jan 29 22:59:33 2022] Your Location is 1014.79, -2207.54, 27.23
+[Sat Jan 29 22:59:33 2022] You think you are heading East.
+[Sat Jan 29 22:59:35 2022] Your Location is 1019.67, -2194.93, 27.51
+[Sat Jan 29 22:59:35 2022] You think you are heading SouthWest.
+[Sat Jan 29 23:01:15 2022] The cool breeze fades.
+[Sat Jan 29 23:02:59 2022] Szavyor tells the group, 'LMAO'
+[Sat Jan 29 23:03:08 2022] You slow down.
+[Sat Jan 29 23:03:09 2022] Szavyor tells the group, 'crankin on this dude's game'
+[Sat Jan 29 23:05:32 2022] You slow down.
+[Sat Jan 29 23:06:08 2022] Your Location is 997.53, -2178.10, 27.16
+[Sat Jan 29 23:06:08 2022] You think you are heading North.
+[Sat Jan 29 23:07:39 2022] Your Location is 1000.09, -2207.04, 26.81
+[Sat Jan 29 23:07:39 2022] You think you are heading NorthEast.
+[Sat Jan 29 23:07:40 2022] Your Location is 1008.98, -2233.25, 26.81
+[Sat Jan 29 23:07:52 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:07:56 2022] Trumpthat has left the group.
+[Sat Jan 29 23:07:58 2022] You slow down.
+[Sat Jan 29 23:08:22 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:08:52 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:09:44 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:10:14 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:10:18 2022] A stoneleer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:10:18 2022] a stoneleer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:10:18 2022] A stoneleer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:10:18 2022] a stoneleer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:10:18 2022] You gain party experience!!
+[Sat Jan 29 23:10:18 2022] A drolvarg growler is smashed by the heaving ground.
+[Sat Jan 29 23:10:18 2022] a drolvarg growler has been slain by Szavyor!
+[Sat Jan 29 23:10:18 2022] You gain party experience!!
+[Sat Jan 29 23:10:18 2022] A drolvarg growler is smashed by the heaving ground.
+[Sat Jan 29 23:10:18 2022] a drolvarg growler has been slain by Szavyor!
+[Sat Jan 29 23:10:18 2022] You gain party experience!!
+[Sat Jan 29 23:10:18 2022] A drolvarg growler is smashed by the heaving ground.
+[Sat Jan 29 23:10:18 2022] a drolvarg growler has been slain by Szavyor!
+[Sat Jan 29 23:10:18 2022] You gain party experience!!
+[Sat Jan 29 23:10:18 2022] A drolvarg growler is smashed by the heaving ground.
+[Sat Jan 29 23:10:18 2022] a drolvarg growler has been slain by Szavyor!
+[Sat Jan 29 23:10:18 2022] You gain party experience!!
+[Sat Jan 29 23:10:36 2022] Kizemak says out of character, 'anyone porting out at Karnors ?'
+[Sat Jan 29 23:10:40 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:10:40 2022] You gain party experience!!
+[Sat Jan 29 23:10:44 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:10:45 2022] a stonegazer cockatrice has been slain by Trumpthat!
+[Sat Jan 29 23:10:45 2022] You gain party experience!!
+[Sat Jan 29 23:10:45 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:10:45 2022] You gain party experience!!
+[Sat Jan 29 23:10:46 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:10:46 2022] You gain party experience!!
+[Sat Jan 29 23:10:46 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:10:46 2022] You gain party experience!!
+[Sat Jan 29 23:10:48 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:10:48 2022] You gain party experience!!
+[Sat Jan 29 23:10:48 2022] A stonegazer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:10:48 2022] a stonegazer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:10:48 2022] You gain party experience!!
+[Sat Jan 29 23:10:48 2022] A stonegazer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:10:48 2022] a stonegazer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:10:48 2022] You gain party experience!!
+[Sat Jan 29 23:10:48 2022] A stonegazer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:10:48 2022] a stonegazer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:10:48 2022] You gain party experience!!
+[Sat Jan 29 23:10:49 2022] a petrifier cockatrice has been slain by Trumpthat!
+[Sat Jan 29 23:10:49 2022] You gain party experience!!
+[Sat Jan 29 23:11:14 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:11:18 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:11:18 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:11:18 2022] You gain party experience!!
+[Sat Jan 29 23:11:18 2022] A petrifier cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:11:18 2022] a petrifier cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:11:18 2022] You gain party experience!!
+[Sat Jan 29 23:11:18 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:11:18 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:11:18 2022] You gain party experience!!
+[Sat Jan 29 23:11:18 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:11:18 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:11:19 2022] You gain party experience!!
+[Sat Jan 29 23:11:19 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:11:19 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:11:19 2022] You gain party experience!!
+[Sat Jan 29 23:11:19 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:11:19 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:11:19 2022] You gain party experience!!
+[Sat Jan 29 23:11:37 2022] a ravishing drolvarg Gates.
+[Sat Jan 29 23:11:44 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:12:15 2022] a drolvarg rager has been slain by Trumpthat!
+[Sat Jan 29 23:12:15 2022] You gain party experience!!
+[Sat Jan 29 23:12:17 2022] a drolvarg rager has been slain by Trumpthat!
+[Sat Jan 29 23:12:17 2022] You gain party experience!!
+[Sat Jan 29 23:12:24 2022] Trumpthat has joined the group.
+[Sat Jan 29 23:12:26 2022] You receive 0 platinum, 5 gold, 3 silver, 1 copper as your split.
+[Sat Jan 29 23:12:27 2022] You receive 0 platinum, 3 gold, 3 silver, 0 copper as your split.
+[Sat Jan 29 23:12:28 2022] You receive 0 platinum, 3 gold, 2 silver, 4 copper as your split.
+[Sat Jan 29 23:12:29 2022] You receive 0 platinum, 3 gold, 2 silver, 2 copper as your split.
+[Sat Jan 29 23:12:30 2022] You receive 0 platinum, 1 gold, 5 silver, 2 copper as your split.
+[Sat Jan 29 23:12:31 2022] You receive 0 platinum, 1 gold, 1 silver, 1 copper as your split.
+[Sat Jan 29 23:12:32 2022] You receive 0 platinum, 3 gold, 3 silver, 4 copper as your split.
+[Sat Jan 29 23:12:33 2022] You receive 0 platinum, 3 gold, 2 silver, 3 copper as your split.
+[Sat Jan 29 23:12:34 2022] You receive 0 platinum, 3 gold, 5 silver, 5 copper as your split.
+[Sat Jan 29 23:12:35 2022] You receive 0 platinum, 0 gold, 2 silver, 0 copper as your split.
+[Sat Jan 29 23:12:36 2022] You receive 0 platinum, 4 gold, 1 silver, 1 copper as your split.
+[Sat Jan 29 23:12:37 2022] You receive 0 platinum, 0 gold, 2 silver, 0 copper as your split.
+[Sat Jan 29 23:12:37 2022] Trumpthat is looking at your equipment...
+[Sat Jan 29 23:12:38 2022] You receive 1 platinum, 0 gold, 2 silver, 0 copper as your split.
+[Sat Jan 29 23:12:38 2022] You receive 0 platinum, 4 gold, 1 silver, 4 copper as your split.
+[Sat Jan 29 23:12:39 2022] You receive 0 platinum, 5 gold, 2 silver, 3 copper as your split.
+[Sat Jan 29 23:12:41 2022] You receive 0 platinum, 4 gold, 4 silver, 3 copper as your split.
+[Sat Jan 29 23:12:42 2022] You receive 0 platinum, 2 gold, 3 silver, 1 copper as your split.
+[Sat Jan 29 23:12:43 2022] You receive 0 platinum, 5 gold, 2 silver, 5 copper as your split.
+[Sat Jan 29 23:12:44 2022] You receive 0 platinum, 1 gold, 0 silver, 2 copper as your split.
+[Sat Jan 29 23:12:45 2022] You receive 0 platinum, 5 gold, 5 silver, 4 copper as your split.
+[Sat Jan 29 23:12:46 2022] You receive 0 platinum, 2 gold, 1 silver, 1 copper as your split.
+[Sat Jan 29 23:12:47 2022] You receive 0 platinum, 0 gold, 1 silver, 0 copper as your split.
+[Sat Jan 29 23:12:49 2022] You receive 0 platinum, 2 gold, 3 silver, 5 copper as your split.
+[Sat Jan 29 23:12:52 2022] You receive 0 platinum, 2 gold, 4 silver, 1 copper as your split.
+[Sat Jan 29 23:13:22 2022] You have stopped regenerating.
+[Sat Jan 29 23:18:06 2022] You slow down.
+[Sat Jan 29 23:20:42 2022] Szavyor begins to walk faster.
+[Sat Jan 29 23:20:48 2022] Trumpthat tells the group, '5t'
+[Sat Jan 29 23:20:50 2022] Trumpthat tells the group, 'a drachnid recluse'
+[Sat Jan 29 23:20:54 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:20:57 2022] a drachnid recluse begins to cast a spell.
+[Sat Jan 29 23:20:59 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:21:01 2022] a drachnid recluse begins to cast a spell.
+[Sat Jan 29 23:21:06 2022] a drachnid recluse begins to cast a spell.
+[Sat Jan 29 23:21:10 2022] a drachnid recluse begins to cast a spell.
+[Sat Jan 29 23:25:08 2022] You slow down.
+[Sat Jan 29 23:25:33 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:25:39 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:26:28 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:26:31 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:26:45 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:26:52 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:26:54 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:26:57 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:26:59 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:27:05 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:27:07 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:27:09 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:27:10 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:27:39 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:27:43 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:27:47 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:27:49 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:27:51 2022] You slow down.
+[Sat Jan 29 23:28:07 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:28:09 2022] Szavyor regains concentration and continues casting.
+[Sat Jan 29 23:28:13 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:28:15 2022] You slow down.
+[Sat Jan 29 23:28:17 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:28:18 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:28:23 2022] Szavyor begins to walk faster.
+[Sat Jan 29 23:28:37 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:29:20 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:29:51 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:29:57 2022] a stoneleer cockatrice has been slain by Trumpthat!
+[Sat Jan 29 23:29:57 2022] a drolvarg growler has been slain by Trumpthat!
+[Sat Jan 29 23:30:00 2022] a drolvarg growler has been slain by Trumpthat!
+[Sat Jan 29 23:30:03 2022] Trumpthat has left the group.
+[Sat Jan 29 23:30:22 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:30:24 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:30:24 2022] You gain party experience!!
+[Sat Jan 29 23:30:24 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:30:24 2022] You gain party experience!!
+[Sat Jan 29 23:30:25 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:30:25 2022] You gain party experience!!
+[Sat Jan 29 23:30:25 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:30:25 2022] You gain party experience!!
+[Sat Jan 29 23:30:26 2022] a drolvarg snarler has been slain by Trumpthat!
+[Sat Jan 29 23:30:26 2022] You gain party experience!!
+[Sat Jan 29 23:30:26 2022] A drolvarg snarler is smashed by the heaving ground.
+[Sat Jan 29 23:30:26 2022] a drolvarg snarler has been slain by Szavyor!
+[Sat Jan 29 23:30:26 2022] You gain party experience!!
+[Sat Jan 29 23:30:26 2022] A stonegazer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:30:26 2022] a stonegazer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:30:26 2022] You gain party experience!!
+[Sat Jan 29 23:30:26 2022] A drolvarg snarler is smashed by the heaving ground.
+[Sat Jan 29 23:30:26 2022] a drolvarg snarler has been slain by Szavyor!
+[Sat Jan 29 23:30:26 2022] You gain party experience!!
+[Sat Jan 29 23:30:31 2022] a petrifier cockatrice has been slain by Trumpthat!
+[Sat Jan 29 23:30:31 2022] You gain party experience!!
+[Sat Jan 29 23:30:33 2022] a drolvarg gnasher has been slain by Trumpthat!
+[Sat Jan 29 23:30:33 2022] You gain party experience!!
+[Sat Jan 29 23:30:36 2022] a drolvarg gnasher has been slain by Trumpthat!
+[Sat Jan 29 23:30:36 2022] You gain party experience!!
+[Sat Jan 29 23:30:39 2022] a drolvarg gnasher has been slain by Trumpthat!
+[Sat Jan 29 23:30:39 2022] You gain party experience!!
+[Sat Jan 29 23:30:39 2022] a drolvarg gnasher has been slain by Trumpthat!
+[Sat Jan 29 23:30:39 2022] You gain party experience!!
+[Sat Jan 29 23:30:52 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:30:56 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:30:56 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:30:56 2022] You gain party experience!!
+[Sat Jan 29 23:30:57 2022] a petrifier cockatrice has been slain by Trumpthat!
+[Sat Jan 29 23:30:57 2022] You gain party experience!!
+[Sat Jan 29 23:30:57 2022] a petrifier cockatrice has been slain by Trumpthat!
+[Sat Jan 29 23:30:57 2022] You gain party experience!!
+[Sat Jan 29 23:31:16 2022] You gain party experience!!
+[Sat Jan 29 23:31:23 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:31:28 2022] A drolvarg rager is smashed by the heaving ground.
+[Sat Jan 29 23:31:28 2022] a drolvarg rager has been slain by Szavyor!
+[Sat Jan 29 23:31:28 2022] You gain party experience!!
+[Sat Jan 29 23:31:28 2022] A drolvarg rager is smashed by the heaving ground.
+[Sat Jan 29 23:31:28 2022] a drolvarg rager has been slain by Szavyor!
+[Sat Jan 29 23:31:28 2022] You gain party experience!!
+[Sat Jan 29 23:31:28 2022] You gain party experience!!
+[Sat Jan 29 23:31:34 2022] You receive 0 platinum, 4 gold, 4 silver, 1 copper as your split.
+[Sat Jan 29 23:31:35 2022] You receive 0 platinum, 0 gold, 5 silver, 4 copper as your split.
+[Sat Jan 29 23:31:36 2022] Trumpthat has joined the group.
+[Sat Jan 29 23:31:37 2022] --Szavyor has looted a Flame Agate.--
+[Sat Jan 29 23:31:37 2022] You receive 0 platinum, 1 gold, 1 silver, 3 copper as your split.
+[Sat Jan 29 23:31:40 2022] You receive 0 platinum, 5 gold, 3 silver, 0 copper as your split.
+[Sat Jan 29 23:31:41 2022] You receive 0 platinum, 3 gold, 2 silver, 1 copper as your split.
+[Sat Jan 29 23:31:42 2022] You receive 0 platinum, 1 gold, 3 silver, 0 copper as your split.
+[Sat Jan 29 23:31:43 2022] You receive 0 platinum, 3 gold, 4 silver, 2 copper as your split.
+[Sat Jan 29 23:31:44 2022] You receive 0 platinum, 5 gold, 2 silver, 4 copper as your split.
+[Sat Jan 29 23:31:45 2022] You receive 0 platinum, 0 gold, 0 silver, 3 copper as your split.
+[Sat Jan 29 23:31:46 2022] You receive 0 platinum, 1 gold, 2 silver, 1 copper as your split.
+[Sat Jan 29 23:31:48 2022] You receive 0 platinum, 0 gold, 5 silver, 3 copper as your split.
+[Sat Jan 29 23:31:50 2022] You receive 0 platinum, 0 gold, 5 silver, 6 copper as your split.
+[Sat Jan 29 23:31:50 2022] You receive 0 platinum, 1 gold, 0 silver, 2 copper as your split.
+[Sat Jan 29 23:31:51 2022] You receive 0 platinum, 0 gold, 4 silver, 5 copper as your split.
+[Sat Jan 29 23:31:53 2022] You receive 0 platinum, 1 gold, 2 silver, 2 copper as your split.
+[Sat Jan 29 23:31:55 2022] You receive 0 platinum, 3 gold, 2 silver, 5 copper as your split.
+[Sat Jan 29 23:31:56 2022] You receive 0 platinum, 2 gold, 3 silver, 3 copper as your split.
+[Sat Jan 29 23:31:58 2022] You receive 0 platinum, 1 gold, 1 silver, 2 copper as your split.
+[Sat Jan 29 23:31:59 2022] You receive 0 platinum, 4 gold, 2 silver, 2 copper as your split.
+[Sat Jan 29 23:32:01 2022] --Szavyor has looted a Emerald.--
+[Sat Jan 29 23:32:01 2022] You receive 0 platinum, 2 gold, 9 silver, 5 copper as your split.
+[Sat Jan 29 23:32:02 2022] You receive 0 platinum, 1 gold, 1 silver, 1 copper as your split.
+[Sat Jan 29 23:32:04 2022] You receive 0 platinum, 3 gold, 4 silver, 3 copper as your split.
+[Sat Jan 29 23:33:39 2022] a ravishing drolvarg has been slain by Trumpthat!
+[Sat Jan 29 23:33:39 2022] You gain party experience!!
+[Sat Jan 29 23:33:41 2022] a ravishing drolvarg has been slain by Trumpthat!
+[Sat Jan 29 23:33:41 2022] You gain party experience!!
+[Sat Jan 29 23:36:05 2022] You slow down.
+[Sat Jan 29 23:37:11 2022] You slow down.
+[Sat Jan 29 23:37:23 2022] You feel as if you are about to fall.
+[Sat Jan 29 23:37:26 2022] You return to life.
+[Sat Jan 29 23:37:52 2022] You slow down.
+[Sat Jan 29 23:38:05 2022] You land.
+[Sat Jan 29 23:43:28 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:43:37 2022] You slow down.
+[Sat Jan 29 23:43:58 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:44:27 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:44:59 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:45:21 2022] Trumpthat has left the group.
+[Sat Jan 29 23:45:29 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:45:33 2022] A drolvarg growler is smashed by the heaving ground.
+[Sat Jan 29 23:45:33 2022] a drolvarg growler has been slain by Szavyor!
+[Sat Jan 29 23:45:33 2022] A drolvarg growler is smashed by the heaving ground.
+[Sat Jan 29 23:45:33 2022] a drolvarg growler has been slain by Szavyor!
+[Sat Jan 29 23:45:33 2022] You gain party experience!!
+[Sat Jan 29 23:45:33 2022] A drolvarg growler is smashed by the heaving ground.
+[Sat Jan 29 23:45:33 2022] a drolvarg growler has been slain by Szavyor!
+[Sat Jan 29 23:45:33 2022] You gain party experience!!
+[Sat Jan 29 23:46:08 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:46:12 2022] A stonegazer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:46:12 2022] a stonegazer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:46:12 2022] You gain party experience!!
+[Sat Jan 29 23:46:12 2022] A drolvarg snarler is smashed by the heaving ground.
+[Sat Jan 29 23:46:12 2022] a drolvarg snarler has been slain by Szavyor!
+[Sat Jan 29 23:46:12 2022] You gain party experience!!
+[Sat Jan 29 23:46:12 2022] A stonegazer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:46:12 2022] a stonegazer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:46:12 2022] You gain party experience!!
+[Sat Jan 29 23:46:12 2022] A stonegazer cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:46:12 2022] a stonegazer cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:46:12 2022] You gain party experience!!
+[Sat Jan 29 23:46:37 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:46:42 2022] A petrifier cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:46:42 2022] a petrifier cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:46:42 2022] You gain party experience!!
+[Sat Jan 29 23:46:42 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:46:42 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:46:42 2022] You gain party experience!!
+[Sat Jan 29 23:46:42 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:46:42 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:46:42 2022] You gain party experience!!
+[Sat Jan 29 23:46:42 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:46:42 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:46:42 2022] You gain party experience!!
+[Sat Jan 29 23:46:42 2022] A petrifier cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:46:42 2022] a petrifier cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:46:42 2022] You gain party experience!!
+[Sat Jan 29 23:46:42 2022] A petrifier cockatrice is smashed by the heaving ground.
+[Sat Jan 29 23:46:42 2022] a petrifier cockatrice has been slain by Szavyor!
+[Sat Jan 29 23:46:42 2022] You gain party experience!!
+[Sat Jan 29 23:47:08 2022] Szavyor's spell fizzles!
+[Sat Jan 29 23:47:11 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:47:16 2022] A drolvarg gnasher is smashed by the heaving ground.
+[Sat Jan 29 23:47:16 2022] a drolvarg gnasher has been slain by Szavyor!
+[Sat Jan 29 23:47:16 2022] You gain party experience!!
+[Sat Jan 29 23:47:41 2022] a petrifier cockatrice has been slain by Trumpthat!
+[Sat Jan 29 23:47:41 2022] You gain party experience!!
+[Sat Jan 29 23:47:46 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:48:09 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:48:31 2022] a drolvarg rager has been slain by Trumpthat!
+[Sat Jan 29 23:48:31 2022] You gain party experience!!
+[Sat Jan 29 23:48:38 2022] Trumpthat has joined the group.
+[Sat Jan 29 23:49:06 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:50:26 2022] Trumpthat has left the group.
+[Sat Jan 29 23:50:27 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:50:31 2022] A drolvarg rager is smashed by the heaving ground.
+[Sat Jan 29 23:50:31 2022] a drolvarg rager has been slain by Szavyor!
+[Sat Jan 29 23:50:31 2022] You gain party experience!!
+[Sat Jan 29 23:50:42 2022] Trumpthat has joined the group.
+[Sat Jan 29 23:51:50 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:53:05 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:53:09 2022] Szavyor regains concentration and continues casting.
+[Sat Jan 29 23:54:49 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:56:02 2022] Szavyor's casting is interrupted!
+[Sat Jan 29 23:56:05 2022] Szavyor begins to cast a spell.
+[Sat Jan 29 23:56:09 2022] Trumpthat has left the group.
+[Sat Jan 29 23:56:11 2022] Szavyor has left the group.
+[Sat Jan 29 23:56:11 2022] Your group has been disbanded.
+[Sat Jan 29 23:57:08 2022] a ravishing drolvarg has been slain by Trumpthat!
+[Sat Jan 29 23:58:11 2022] Szavyor regains concentration and continues casting.
+[Sat Jan 29 23:58:24 2022] a ravishing drolvarg has been slain by Trumpthat!
+[Sat Jan 29 23:58:36 2022] a ravishing drolvarg has been slain by Trumpthat!
+[Sat Jan 29 23:59:42 2022] Szavyor invites you to join a group.
+[Sat Jan 29 23:59:42 2022] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Sun Jan 30 00:10:52 2022] Your Location is 1029.71, -2184.54, 26.81
+[Sun Jan 30 00:10:52 2022] You think you are heading South.
+[Sun Jan 30 00:10:55 2022] Your Location is 1002.93, -2180.24, 26.81
+[Sun Jan 30 00:10:55 2022] You think you are heading North.
+[Sun Jan 30 00:10:58 2022] Your Location is 997.53, -2170.47, 26.81
+[Sun Jan 30 00:10:59 2022] You think you are heading North.
+[Sun Jan 30 00:10:59 2022] Your Location is 997.53, -2170.47, 26.81
+[Sun Jan 30 00:11:09 2022] You notify Szavyor that you agree to join the group.
+[Sun Jan 30 00:11:10 2022] You have joined the group.
+[Sun Jan 30 00:14:44 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:14:59 2022] Trumpthat has left the group.
+[Sun Jan 30 00:15:16 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:15:46 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:16:32 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:17:01 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:17:02 2022] You gain party experience!!
+[Sun Jan 30 00:17:06 2022] You gain party experience!!
+[Sun Jan 30 00:17:06 2022] You gain party experience!!
+[Sun Jan 30 00:17:06 2022] You gain party experience!!
+[Sun Jan 30 00:17:06 2022] You gain party experience!!
+[Sun Jan 30 00:17:07 2022] You gain party experience!!
+[Sun Jan 30 00:17:07 2022] You gain party experience!!
+[Sun Jan 30 00:17:07 2022] You gain party experience!!
+[Sun Jan 30 00:17:10 2022] You gain party experience!!
+[Sun Jan 30 00:17:10 2022] You gain party experience!!
+[Sun Jan 30 00:17:10 2022] You gain party experience!!
+[Sun Jan 30 00:17:28 2022] You gain party experience!!
+[Sun Jan 30 00:17:28 2022] You gain party experience!!
+[Sun Jan 30 00:17:31 2022] You gain party experience!!
+[Sun Jan 30 00:17:35 2022] You gain party experience!!
+[Sun Jan 30 00:17:40 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:17:42 2022] You gain party experience!!
+[Sun Jan 30 00:17:42 2022] You gain party experience!!
+[Sun Jan 30 00:17:43 2022] You gain party experience!!
+[Sun Jan 30 00:17:49 2022] You receive 0 platinum, 3 gold, 7 silver, 3 copper as your split.
+[Sun Jan 30 00:17:50 2022] You receive 1 platinum, 1 gold, 1 silver, 2 copper as your split.
+[Sun Jan 30 00:17:51 2022] You receive 0 platinum, 9 gold, 8 silver, 5 copper as your split.
+[Sun Jan 30 00:17:52 2022] You receive 0 platinum, 0 gold, 6 silver, 5 copper as your split.
+[Sun Jan 30 00:17:53 2022] You receive 1 platinum, 6 gold, 5 silver, 7 copper as your split.
+[Sun Jan 30 00:17:55 2022] You receive 0 platinum, 2 gold, 1 silver, 1 copper as your split.
+[Sun Jan 30 00:17:55 2022] You receive 1 platinum, 1 gold, 1 silver, 3 copper as your split.
+[Sun Jan 30 00:17:56 2022] You receive 0 platinum, 6 gold, 6 silver, 4 copper as your split.
+[Sun Jan 30 00:17:57 2022] You receive 0 platinum, 0 gold, 4 silver, 3 copper as your split.
+[Sun Jan 30 00:17:58 2022] You receive 1 platinum, 6 gold, 8 silver, 5 copper as your split.
+[Sun Jan 30 00:17:59 2022] You receive 0 platinum, 8 gold, 6 silver, 7 copper as your split.
+[Sun Jan 30 00:18:00 2022] You receive 0 platinum, 0 gold, 6 silver, 5 copper as your split.
+[Sun Jan 30 00:18:01 2022] You receive 0 platinum, 4 gold, 4 silver, 3 copper as your split.
+[Sun Jan 30 00:18:02 2022] You receive 0 platinum, 2 gold, 4 silver, 3 copper as your split.
+[Sun Jan 30 00:18:03 2022] You receive 1 platinum, 4 gold, 2 silver, 3 copper as your split.
+[Sun Jan 30 00:18:04 2022] You receive 0 platinum, 6 gold, 4 silver, 5 copper as your split.
+[Sun Jan 30 00:18:05 2022] You gain party experience!!
+[Sun Jan 30 00:18:05 2022] --Szavyor has looted a Jade.--
+[Sun Jan 30 00:18:06 2022] You receive 0 platinum, 6 gold, 4 silver, 3 copper as your split.
+[Sun Jan 30 00:18:07 2022] You receive 0 platinum, 9 gold, 4 silver, 4 copper as your split.
+[Sun Jan 30 00:18:08 2022] You receive 0 platinum, 0 gold, 3 silver, 0 copper as your split.
+[Sun Jan 30 00:18:14 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:18:18 2022] You gain party experience!!
+[Sun Jan 30 00:18:18 2022] You gain party experience!!
+[Sun Jan 30 00:18:28 2022] You gain party experience!!
+[Sun Jan 30 00:18:34 2022] You gain party experience!!
+[Sun Jan 30 00:18:39 2022] You receive 1 platinum, 4 gold, 2 silver, 4 copper as your split.
+[Sun Jan 30 00:18:40 2022] You receive 1 platinum, 0 gold, 4 silver, 0 copper as your split.
+[Sun Jan 30 00:18:42 2022] You receive 0 platinum, 4 gold, 2 silver, 2 copper as your split.
+[Sun Jan 30 00:18:43 2022] You receive 0 platinum, 1 gold, 4 silver, 4 copper as your split.
+[Sun Jan 30 00:18:45 2022] --Szavyor has looted a Jade.--
+[Sun Jan 30 00:18:53 2022] Trumpthat has joined the group.
+[Sun Jan 30 00:26:18 2022] You slow down.
+[Sun Jan 30 00:31:43 2022] You slow down.
+[Sun Jan 30 00:32:02 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:32:32 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:33:28 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:33:44 2022] Trumpthat has left the group.
+[Sun Jan 30 00:33:58 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:34:26 2022] You gain party experience!!
+[Sun Jan 30 00:34:26 2022] You gain party experience!!
+[Sun Jan 30 00:34:30 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:34:34 2022] You gain party experience!!
+[Sun Jan 30 00:34:34 2022] You gain party experience!!
+[Sun Jan 30 00:34:34 2022] You gain party experience!!
+[Sun Jan 30 00:34:34 2022] You gain party experience!!
+[Sun Jan 30 00:34:35 2022] You gain party experience!!
+[Sun Jan 30 00:34:36 2022] You gain party experience!!
+[Sun Jan 30 00:34:59 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:35:04 2022] You gain party experience!!
+[Sun Jan 30 00:35:04 2022] You gain party experience!!
+[Sun Jan 30 00:35:04 2022] You gain party experience!!
+[Sun Jan 30 00:35:04 2022] You gain party experience!!
+[Sun Jan 30 00:35:04 2022] You gain party experience!!
+[Sun Jan 30 00:35:24 2022] You gain party experience!!
+[Sun Jan 30 00:35:24 2022] You gain party experience!!
+[Sun Jan 30 00:35:32 2022] You gain party experience!!
+[Sun Jan 30 00:35:32 2022] You gain party experience!!
+[Sun Jan 30 00:35:33 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:35:38 2022] You gain party experience!!
+[Sun Jan 30 00:35:38 2022] You gain party experience!!
+[Sun Jan 30 00:35:38 2022] You gain party experience!!
+[Sun Jan 30 00:35:38 2022] You gain party experience!!
+[Sun Jan 30 00:36:03 2022] Szavyor begins to cast a spell.
+[Sun Jan 30 00:36:07 2022] You gain party experience!!
+[Sun Jan 30 00:36:10 2022] You gain party experience!!
+[Sun Jan 30 00:36:13 2022] You receive 0 platinum, 1 gold, 5 silver, 6 copper as your split.
+[Sun Jan 30 00:36:14 2022] You receive 1 platinum, 4 gold, 3 silver, 6 copper as your split.
+[Sun Jan 30 00:36:15 2022] You receive 0 platinum, 3 gold, 5 silver, 4 copper as your split.
+[Sun Jan 30 00:36:16 2022] --Szavyor has looted a Emerald.--
+[Sun Jan 30 00:36:17 2022] You receive 0 platinum, 3 gold, 1 silver, 4 copper as your split.
+[Sun Jan 30 00:36:19 2022] You receive 0 platinum, 0 gold, 2 silver, 1 copper as your split.
+[Sun Jan 30 00:36:20 2022] You receive 0 platinum, 1 gold, 5 silver, 3 copper as your split.
+[Sun Jan 30 00:36:22 2022] You receive 0 platinum, 6 gold, 3 silver, 4 copper as your split.
+[Sun Jan 30 00:36:23 2022] --Szavyor has looted a Jade.--
+[Sun Jan 30 00:36:23 2022] You receive 0 platinum, 4 gold, 1 silver, 1 copper as your split.
+[Sun Jan 30 00:36:24 2022] You receive 0 platinum, 0 gold, 9 silver, 3 copper as your split.
+[Sun Jan 30 00:36:26 2022] You receive 0 platinum, 7 gold, 8 silver, 8 copper as your split.
+[Sun Jan 30 00:36:27 2022] You receive 0 platinum, 4 gold, 4 silver, 3 copper as your split.
+[Sun Jan 30 00:36:28 2022] You receive 1 platinum, 4 gold, 2 silver, 3 copper as your split.
+[Sun Jan 30 00:36:29 2022] You receive 0 platinum, 5 gold, 7 silver, 5 copper as your split.
+[Sun Jan 30 00:36:31 2022] You receive 0 platinum, 2 gold, 6 silver, 5 copper as your split.
+[Sun Jan 30 00:36:32 2022] --Szavyor has looted a Emerald.--
+[Sun Jan 30 00:36:33 2022] You receive 1 platinum, 3 gold, 3 silver, 1 copper as your split.
+[Sun Jan 30 00:36:34 2022] You receive 1 platinum, 1 gold, 0 silver, 3 copper as your split.
+[Sun Jan 30 00:36:35 2022] You receive 0 platinum, 0 gold, 6 silver, 7 copper as your split.
+[Sun Jan 30 00:36:36 2022] You receive 0 platinum, 4 gold, 0 silver, 2 copper as your split.
+[Sun Jan 30 00:36:37 2022] You receive 0 platinum, 1 gold, 9 silver, 2 copper as your split.
+[Sun Jan 30 00:36:38 2022] You receive 0 platinum, 4 gold, 3 silver, 2 copper as your split.
+[Sun Jan 30 00:36:39 2022] You receive 0 platinum, 1 gold, 1 silver, 3 copper as your split.
+[Sun Jan 30 00:36:40 2022] You receive 0 platinum, 0 gold, 8 silver, 7 copper as your split.
+[Sun Jan 30 00:36:41 2022] --Szavyor has looted a Pearl Ring.--
+[Sun Jan 30 00:36:43 2022] You receive 0 platinum, 6 gold, 8 silver, 4 copper as your split.
+[Sun Jan 30 00:36:44 2022] You receive 0 platinum, 3 gold, 5 silver, 7 copper as your split.
+[Sun Jan 30 00:36:56 2022] Trumpthat has joined the group.
+[Sun Jan 30 00:39:29 2022] Trumpthat has gone Linkdead.
+[Sun Jan 30 00:39:29 2022] Trumpthat has left the group.
+[Sun Jan 30 00:44:37 2022] Szavyor has left the group.
+[Sun Jan 30 00:44:37 2022] Your group has been disbanded.
+[Sun Jan 30 03:08:10 2022] Dreadwolf regains concentration and continues casting.
+[Sun Jan 30 04:24:36 2022] It begins to snow.
+[Sun Jan 30 04:40:47 2022] Snowghost says out of character, 'wtb port to WC'
+[Sun Jan 30 07:54:12 2022] Symphonic says out of character, 'chooo choo to the zone!!!!'
+[Sun Jan 30 19:22:25 2022] Welcome to EverQuest!
+[Sun Jan 30 19:22:25 2022] You have entered Dreadlands.
+[Sun Jan 30 19:22:25 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Sun Jan 30 19:22:34 2022] Your Location is 999.30, -2169.99, 26.81
+[Sun Jan 30 19:22:35 2022] You think you are heading North.
+[Sun Jan 30 19:22:37 2022] Your Location is 997.72, -2170.36, 26.81
+[Sun Jan 30 19:22:37 2022] You think you are heading NorthEast.
+[Sun Jan 30 19:22:38 2022] Mouse control deactivated.
+[Sun Jan 30 19:22:38 2022] Your Location is 997.53, -2169.65, 26.81
+[Sun Jan 30 19:22:39 2022] Mouse control activated.  Use right mouse button.
+[Sun Jan 30 19:22:40 2022] Your Location is 997.53, -2169.65, 26.81
+[Sun Jan 30 19:22:40 2022] You think you are heading NorthEast.
+[Sun Jan 30 19:22:41 2022] Your Location is 997.53, -2169.65, 26.81
+[Sun Jan 30 19:22:41 2022] Mouse control deactivated.
+[Sun Jan 30 19:22:42 2022] Your Location is 997.53, -2169.65, 26.81
+[Sun Jan 30 19:22:42 2022] You think you are heading NorthEast.
+[Sun Jan 30 19:22:43 2022] Your Location is 997.53, -2169.48, 26.81
+[Sun Jan 30 19:22:49 2022] Mouse control activated.  Use right mouse button.
+[Sun Jan 30 19:22:53 2022] Your Location is 1001.54, -2181.35, 26.81
+[Sun Jan 30 19:22:53 2022] You think you are heading East.
+[Sun Jan 30 19:23:02 2022] You forget Chloroplast.
+[Sun Jan 30 19:23:02 2022] Beginning to memorize Spirit of Wolf...
+[Sun Jan 30 19:23:02 2022] You have finished memorizing Spirit of Wolf.
+[Sun Jan 30 19:23:02 2022] You haven't recovered yet...
+[Sun Jan 30 19:23:03 2022] You haven't recovered yet...
+[Sun Jan 30 19:23:03 2022] You haven't recovered yet...
+[Sun Jan 30 19:23:04 2022] Your Location is 1012.50, -2194.91, 26.81
+[Sun Jan 30 19:23:04 2022] You think you are heading East.
+[Sun Jan 30 19:23:07 2022] You haven't recovered yet...
+[Sun Jan 30 19:23:07 2022] You begin casting Spirit of Wolf.
+[Sun Jan 30 19:23:08 2022] You haven't recovered yet...
+[Sun Jan 30 19:23:09 2022] You can't use that command right now...
+[Sun Jan 30 19:23:12 2022] You feel the spirit of wolf enter you.
+[Sun Jan 30 19:23:12 2022] Your Location is 1027.03, -2224.66, 26.81
+[Sun Jan 30 19:23:12 2022] You think you are heading East.
+[Sun Jan 30 19:23:15 2022] Your Location is 1002.15, -2251.64, 26.81
+[Sun Jan 30 19:23:16 2022] You think you are heading East.
+[Sun Jan 30 19:23:16 2022] a ravishing drolvarg scowls at you, ready to attack -- it appears to be quite formidable.
+[Sun Jan 30 19:23:18 2022] Your Location is 998.74, -2292.42, 26.81
+[Sun Jan 30 19:23:19 2022] You think you are heading NorthEast.
+[Sun Jan 30 19:23:20 2022] It will take you about 30 seconds to prepare your camp.
+[Sun Jan 30 19:23:23 2022] You abandon your preparations to camp.
+[Sun Jan 30 19:23:24 2022] You begin casting Spirit of Wolf.
+[Sun Jan 30 19:23:28 2022] Your target is out of range, get closer!
+[Sun Jan 30 19:23:28 2022] Your spell is interrupted.
+[Sun Jan 30 19:23:30 2022] It will take you about 30 seconds to prepare your camp.
+[Sun Jan 30 19:23:34 2022] It will take about 25 more seconds to prepare your camp.
+[Sun Jan 30 19:23:39 2022] It will take about 20 more seconds to prepare your camp.
+[Sun Jan 30 19:23:44 2022] It will take about 15 more seconds to prepare your camp.
+[Sun Jan 30 19:23:49 2022] It will take about 10 more seconds to prepare your camp.
+[Sun Jan 30 19:23:54 2022] It will take about 5 more seconds to prepare your camp.
+[Sun Jan 30 19:29:32 2022] Welcome to EverQuest!
+[Sun Jan 30 19:29:32 2022] You have entered Dreadlands.
+[Sun Jan 30 19:29:32 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Sun Jan 30 19:29:37 2022] You told Nanow, ''
+[Sun Jan 30 19:29:38 2022] Your Location is 997.54, -2290.39, 26.81
+[Sun Jan 30 19:29:39 2022] You think you are heading East.
+[Sun Jan 30 19:29:43 2022] Your Location is 1005.93, -2302.84, 26.81
+[Sun Jan 30 19:29:44 2022] You think you are heading East.
+[Sun Jan 30 19:29:47 2022] Your Location is 1008.49, -2308.54, 26.81
+[Sun Jan 30 19:29:47 2022] You think you are heading NorthWest.
+[Sun Jan 30 19:30:28 2022] It will take you about 30 seconds to prepare your camp.
+[Sun Jan 30 19:30:32 2022] It will take about 25 more seconds to prepare your camp.
+[Sun Jan 30 19:30:37 2022] It will take about 20 more seconds to prepare your camp.
+[Sun Jan 30 19:30:42 2022] It will take about 15 more seconds to prepare your camp.
+[Sun Jan 30 19:30:47 2022] It will take about 10 more seconds to prepare your camp.
+[Sun Jan 30 19:30:52 2022] It will take about 5 more seconds to prepare your camp.
+[Sun Jan 30 21:24:07 2022] Welcome to EverQuest!
+[Sun Jan 30 21:24:07 2022] You have entered Dreadlands.
+[Sun Jan 30 21:24:07 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Sun Jan 30 21:24:15 2022] Your Location is 1005.00, -2282.00, 26.81
+[Sun Jan 30 21:24:15 2022] You think you are heading North.
+[Sun Jan 30 21:24:24 2022] Trumpthat has offered you a Phase Spider Carapace.
+[Sun Jan 30 21:24:42 2022] It will take you about 30 seconds to prepare your camp.
+[Sun Jan 30 21:24:46 2022] It will take about 25 more seconds to prepare your camp.
+[Sun Jan 30 21:24:47 2022] You abandon your preparations to camp.
+[Mon Jan 31 15:25:38 2022] Welcome to EverQuest!
+[Mon Jan 31 15:25:38 2022] You have entered Dreadlands.
+[Mon Jan 31 15:25:38 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Mon Jan 31 15:26:09 2022] It will take you about 30 seconds to prepare your camp.
+[Mon Jan 31 15:26:13 2022] It will take about 25 more seconds to prepare your camp.
+[Mon Jan 31 15:26:18 2022] It will take about 20 more seconds to prepare your camp.
+[Mon Jan 31 15:26:23 2022] It will take about 15 more seconds to prepare your camp.
+[Mon Jan 31 15:26:28 2022] It will take about 10 more seconds to prepare your camp.
+[Mon Jan 31 15:26:33 2022] It will take about 5 more seconds to prepare your camp.
+[Mon Jan 31 20:03:54 2022] Welcome to EverQuest!
+[Mon Jan 31 20:03:54 2022] You have entered Dreadlands.
+[Mon Jan 31 20:03:54 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Mon Jan 31 20:03:59 2022] Your Location is 997.58, -2261.00, 26.81
+[Mon Jan 31 20:03:59 2022] You think you are heading North.
+[Mon Jan 31 20:04:00 2022] Your Location is 1001.06, -2248.75, 26.81
+[Mon Jan 31 20:04:02 2022] Your Location is 1016.54, -2252.52, 26.81
+[Mon Jan 31 20:04:02 2022] You think you are heading West.
+[Mon Jan 31 20:04:04 2022] You are currently bound in: East Cabilis
+[Mon Jan 31 20:04:19 2022] You forget Cannibalize II.
+[Mon Jan 31 20:04:20 2022] Beginning to memorize Gate...
+[Mon Jan 31 20:04:20 2022] You have finished memorizing Gate.
+[Mon Jan 31 20:04:20 2022] You haven't recovered yet...
+[Mon Jan 31 20:04:22 2022] It will take you about 30 seconds to prepare your camp.
+[Mon Jan 31 20:04:26 2022] It will take about 25 more seconds to prepare your camp.
+[Mon Jan 31 20:04:31 2022] It will take about 20 more seconds to prepare your camp.
+[Mon Jan 31 20:04:36 2022] It will take about 15 more seconds to prepare your camp.
+[Mon Jan 31 20:04:41 2022] It will take about 10 more seconds to prepare your camp.
+[Mon Jan 31 20:04:46 2022] It will take about 5 more seconds to prepare your camp.
+[Mon Jan 31 20:04:52 2022] You abandon your preparations to camp.

@@ -1,0 +1,28 @@
+[Mon Jan 31 19:56:41 2022] Welcome to EverQuest!
+[Mon Jan 31 19:56:41 2022] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Mon Jan 31 19:56:41 2022] You have entered Cabilis East.
+[Mon Jan 31 19:56:41 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Mon Jan 31 20:02:25 2022] Welcome to EverQuest!
+[Mon Jan 31 20:02:25 2022] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Mon Jan 31 20:02:25 2022] You have entered Cabilis East.
+[Mon Jan 31 20:02:25 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Mon Jan 31 20:02:27 2022] Your Location is 345.02, -442.65, 3.75
+[Mon Jan 31 20:02:27 2022] You have no idea what direction you are facing.
+[Mon Jan 31 20:02:29 2022] Your Location is 329.51, -420.81, 3.75
+[Mon Jan 31 20:02:32 2022] Your Location is 368.89, -420.53, 3.75
+[Mon Jan 31 20:02:32 2022] You have no idea what direction you are facing.
+[Mon Jan 31 20:02:35 2022] Your Location is 371.86, -417.51, 3.75
+[Mon Jan 31 20:02:35 2022] You have no idea what direction you are facing.
+[Mon Jan 31 20:02:37 2022] Your Location is 421.71, -423.32, 3.75
+[Mon Jan 31 20:02:38 2022] Your Location is 456.28, -430.35, 3.75
+[Mon Jan 31 20:02:38 2022] You have no idea what direction you are facing.
+[Mon Jan 31 20:02:39 2022] Your Location is 501.69, -434.15, 3.75
+[Mon Jan 31 20:02:40 2022] Your Location is 519.26, -437.36, 3.75
+[Mon Jan 31 20:02:40 2022] You have no idea what direction you are facing.
+[Mon Jan 31 20:02:40 2022] Your Location is 536.61, -441.41, 3.75
+[Mon Jan 31 20:02:44 2022] It will take you about 30 seconds to prepare your camp.
+[Mon Jan 31 20:02:48 2022] It will take about 25 more seconds to prepare your camp.
+[Mon Jan 31 20:02:53 2022] It will take about 20 more seconds to prepare your camp.
+[Mon Jan 31 20:02:58 2022] It will take about 15 more seconds to prepare your camp.
+[Mon Jan 31 20:03:03 2022] It will take about 10 more seconds to prepare your camp.
+[Mon Jan 31 20:03:08 2022] It will take about 5 more seconds to prepare your camp.

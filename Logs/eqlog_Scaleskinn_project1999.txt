@@ -1,0 +1,11 @@
+[Mon Jan 31 15:24:09 2022] Welcome to EverQuest!
+[Mon Jan 31 15:24:09 2022] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Mon Jan 31 15:24:09 2022] You have entered Grobb.
+[Mon Jan 31 15:24:09 2022] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Mon Jan 31 15:24:34 2022] It will take you about 30 seconds to prepare your camp.
+[Mon Jan 31 15:24:38 2022] It will take about 25 more seconds to prepare your camp.
+[Mon Jan 31 15:24:42 2022] Basher Razbaz judges you amiably -- what would you like your tombstone to say?
+[Mon Jan 31 15:24:43 2022] It will take about 20 more seconds to prepare your camp.
+[Mon Jan 31 15:24:48 2022] It will take about 15 more seconds to prepare your camp.
+[Mon Jan 31 15:24:53 2022] It will take about 10 more seconds to prepare your camp.
+[Mon Jan 31 15:24:58 2022] It will take about 5 more seconds to prepare your camp.

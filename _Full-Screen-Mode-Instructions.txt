@@ -1,0 +1,5 @@
+1. Right-click _Full-Screen-Mode > Properties
+2. Compatibility Tab:
+	• Click Run this program in compatibility mode for: Windows Vista (Service Pack 2)
+	• Click Run this program as an administrator
+3. After you are at the character select screen, or in game, run _Full-Screen-Mode.
