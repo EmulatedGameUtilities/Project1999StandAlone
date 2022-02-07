@@ -5,6 +5,6 @@ SET persistentConfig=%appdata%\ZLizEQMap\ZLizEQMap.ini
 
 taskkill /f /im %processName%
 cd %mapLauncherParent%
-COPY /y %metadata% %persistentConfig%
+COPY /y %configFile% %persistentConfig%
 start ZLizEQMap
 exit
