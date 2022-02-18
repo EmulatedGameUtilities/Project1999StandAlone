@@ -1,3 +1,0 @@
-2
-wuf,wuf_chr
-tar,tar

@@ -1,4 +1,0 @@
-3
-efr,soltemple_chr
-cst,cst
-dke,dke

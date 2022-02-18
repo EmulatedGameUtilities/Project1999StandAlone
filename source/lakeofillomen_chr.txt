@@ -1,4 +1,0 @@
-3
-gdm,unrest_chr
-scr,scr_chr
-dke,dke

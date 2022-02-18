@@ -1,3 +1,0 @@
-2
-sed,sed_chr
-rtn,rtn

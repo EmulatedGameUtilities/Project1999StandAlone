@@ -1,3 +1,0 @@
-2
-ssk,lakeofillomen_chr
-sim,sebilis_chr

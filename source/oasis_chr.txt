@@ -1,6 +1,0 @@
-5
-cst,cst
-rom,rom_chr
-tar,tar
-dke,dke
-spq,spq

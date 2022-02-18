@@ -1,3 +1,0 @@
-2
-dke,dke
-btn,btn
