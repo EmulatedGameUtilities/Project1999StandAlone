@@ -3660,3 +3660,11 @@
 
 [Thu Feb 24 16:02:03 2022]00001:ResourceManager::CreateTexture(): unable to load "resources\sky\stars.dds"  D3DX Error:Unknown DirectX 9 Error 
 
+[Thu Feb 24 16:12:07 2022]00000:ResourceManager::CreateTexture(): unable to load "resources\sky\stars.dds"  D3DX Error:Unknown DirectX 9 Error 
+
+[Thu Feb 24 16:17:37 2022]00000:ResourceManager::CreateTexture(): unable to load "resources\sky\stars.dds"  D3DX Error:Unknown DirectX 9 Error 
+
+[Thu Feb 24 16:23:08 2022]00000:ResourceManager::CreateTexture(): unable to load "resources\sky\stars.dds"  D3DX Error:Unknown DirectX 9 Error 
+
+[Thu Feb 24 16:25:41 2022]00000:ResourceManager::CreateTexture(): unable to load "resources\sky\stars.dds"  D3DX Error:Unknown DirectX 9 Error 
+
