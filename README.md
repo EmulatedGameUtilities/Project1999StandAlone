@@ -11,7 +11,7 @@
 * Navigate to [project1999.com](project1999.com) to register a new account
 
 ### Download Zip
-* Click here to download this project as `.zip`
+* Click [here](https://github.com/EmulatedGameUtilities/Project1999StandAlone/archive/refs/heads/master.zip) to download this project as `.zip`
 * Extract the `.zip` anywhere you would like
 
 ### Launch `Add New Player Metadata.bat`
