@@ -8,7 +8,7 @@
 5. Launch `Add New Player Metadata.bat`
 
 ### Create P99 Account
-* Navigate to [project1999.com](project1999.com) to register a new account
+* Navigate to [https://project1999.com](https://project1999.com) to register a new account
 
 ### Download Zip
 * Click [here](https://github.com/EmulatedGameUtilities/Project1999StandAlone/archive/refs/heads/master.zip) to download this project as `.zip`
